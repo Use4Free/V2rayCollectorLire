@@ -66,7 +66,7 @@ trojan://YzKERMQFqq@65.109.205.163:65531/?type=tcp&security=tls#@vpnclashfa - 10
 trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443?security=tls&headerType=none&type=tcp&sni=scarily.golfland.club#@vpnclashfa - 9
 trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@23.106.32.171:443/?type=tcp&security=tls&sni=scarily.golfland.club#@vpnclashfa - 8
 trojan://9yu6m5okr@172.67.198.177:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#@vpnclashfa - 7
-trojan://9bPT0131yR@164.90.167.137:2095/?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m&security=tls&sni=164.90.167.137#@vpnclashfa - 6
+trojan://9bPT0131yR@164.90.167.137:2095/?type=ws&host=164.90.167.137&path=%2F2.v2ray.debian.org.fxp.debian.org.speedtest.net.%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%C3%B9%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD%EF%BF%BD.madariran.filegear-sg.m#@vpnclashfa - 6
 trojan://71409d3e488548e8bb076d229778f008@104.17.147.77:443?path=6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 5
 trojan://3240d72a-1373-4566-9c6c-68524e4b13fc@es-full.privateip.net:443/?type=tcp&security=tls#@vpnclashfa - 4
 trojan://19c80ce9-0935-41b9-b077-277621316a87@hidd2.sassanidempire.com:443/?type=ws&host=hidd2.sassanidempire.com&path=%2FVOkcnRNFk1Gfjd07ui73LZgwx8s&security=tls&sni=hidd2.sassanidempire.com&alpn=h2&fp=chrome#@vpnclashfa - 3
