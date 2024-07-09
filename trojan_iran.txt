@@ -14,5 +14,5 @@ trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pa
 trojan://auto@104.18.13.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 5
 trojan://af1b7626-57e2-45e8-9f1a-d97a8f3977c0@81.31.232.46:2333?security=tls&sni=www.qq.com&allowInsecure=1&type=tcp#@vpnclashfa - 4
 trojan://YzKERMQFqq@65.109.205.163:65531?type=tcp&security=none#@vpnclashfa - 3
-trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443/?type=tcp&security=tls&sni=scarily.golfland.club&fp=chrome#@vpnclashfa - 2
+trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=scarily.golfland.club#@vpnclashfa - 2
 trojan://30761083-5dcd-49d6-85b5-33756ef1f7ed@178.79.140.181:443/?type=tcp&security=tls&sni=uk2-full.privateip.net#@vpnclashfa - 1
