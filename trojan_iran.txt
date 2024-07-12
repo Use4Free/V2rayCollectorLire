@@ -8,7 +8,7 @@ trojan://auto@162.159.128.233:8443?path=%2F&security=tls&host=e9464f45.trauma-2r
 trojan://auto@104.20.6.134:443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 7
 trojan://auto@104.18.13.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 6
 trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=scarily.golfland.club#@vpnclashfa - 5
-trojan://Ebjep5BC28@46.17.45.155:54690?security=none&headerType=none&type=tcp#@vpnclashfa - 4
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@sg1111.156786.xyz:703/?type=tcp&security=tls&sni=sg1111.156786.xyz#@vpnclashfa - 3
+trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443/?type=tcp&security=tls&sni=scarily.golfland.club&fp=chrome#@vpnclashfa - 4
+trojan://Ebjep5BC28@46.17.45.155:54690?security=none&headerType=none&type=tcp#@vpnclashfa - 3
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709/?type=tcp&security=tls&sni=jp03.156786.xyz#@vpnclashfa - 2
 trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@0kr02.156786.xyz:709/?type=tcp&security=tls&sni=0kr02.156786.xyz#@vpnclashfa - 1
