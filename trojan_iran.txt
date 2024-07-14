@@ -1,5 +1,6 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 9
-trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com&alpn=h2%2Chttp%2F1.1&fp=random#@vpnclashfa - 8
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 10
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com&alpn=h2%2Chttp%2F1.1&fp=random#@vpnclashfa - 9
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 8
 trojan://ypDt8RkT7J@138.199.57.185:43118/?type=tcp&security=tls&sni=eiety.phooeyunfold.com#@vpnclashfa - 7
 trojan://telegram-id-privatevpns@3.10.102.144:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 6
 trojan://F9D3CpxDl8a3ezeZNSBSAa2RcZNSBSAa2RcY8IyagD67Yn3S30ZTElRj4wFX5On3S30ZT@scarily.golfland.club:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=scarily.golfland.club#@vpnclashfa - 5
