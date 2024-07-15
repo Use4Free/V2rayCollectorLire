@@ -1,8 +1,6 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 8
-trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com&alpn=h2%2Chttp%2F1.1&fp=random#@vpnclashfa - 7
-trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 6
-trojan://ypDt8RkT7J@138.199.57.185:43118/?type=tcp&security=tls&sni=eiety.phooeyunfold.com#@vpnclashfa - 5
-trojan://Ebjep5BC28@46.17.45.155:54690?security=none&headerType=none&type=tcp#@vpnclashfa - 4
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@sg1111.156786.xyz:703/?type=tcp&security=tls&sni=sg1111.156786.xyz#@vpnclashfa - 3
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@jp03.156786.xyz:709/?type=tcp&security=tls&sni=jp03.156786.xyz#@vpnclashfa - 2
-trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@0kr02.156786.xyz:709/?type=tcp&security=tls&sni=0kr02.156786.xyz#@vpnclashfa - 1
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 6
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com&alpn=h2%2Chttp%2F1.1&fp=random#@vpnclashfa - 5
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 4
+trojan://ypDt8RkT7J@138.199.57.185:43118/?type=tcp&security=tls&sni=eiety.phooeyunfold.com#@vpnclashfa - 3
+trojan://Ebjep5BC28@46.17.45.155:54690?security=none&headerType=none&type=tcp#@vpnclashfa - 2
+trojan://518a6ff8-7233-4f28-8a40-d3fa82a5875d@sg1111.156786.xyz:703/?type=tcp&security=tls&sni=sg1111.156786.xyz#@vpnclashfa - 1
