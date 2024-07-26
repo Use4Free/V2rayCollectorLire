@@ -57,10 +57,10 @@ trojan://tKadZAThEQ@188.245.59.155:57875/?type=tcp&security=tls#@vpnclashfa - 13
 trojan://auto@162.159.138.232:8443/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 12
 trojan://auto@104.21.90.210:2053/?type=ws&host=e9464f45.trauma-2r4.pages.dev&path=%2F&security=tls&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 11
 trojan://ZUbitpXFy8LK8mdWkU6Fvg@85.237.211.134:2083/?type=ws&security=tls&sni=c307a960c3f48cb0.gstatic.com#@vpnclashfa - 10
-trojan://Z3FSA9weaaRYpN89weaaRYpN89weaaRYpN80CDYFOxS5TSBqlCyAaXzaXzc7ZpngISBqlCyAaXzc7Zp@tubular.wireshop.net:443/?type=tcp&security=tls&sni=tubular.wireshop.net#@vpnclashfa - 9
-trojan://YC2aEo3mRz@193.124.46.147:52398?security=none&headerType=none&type=tcp#@vpnclashfa - 8
-trojan://Watashi_VPN@zula.ir:443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 7
-trojan://Watashi_VPN@www.visa.com.sg:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 6
+trojan://YC2aEo3mRz@193.124.46.147:52398?security=none&headerType=none&type=tcp#@vpnclashfa - 9
+trojan://Watashi_VPN@zula.ir:443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 8
+trojan://Watashi_VPN@www.visa.com.sg:8443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 7
+trojan://Watashi_VPN@www.visa.com.sg:2053/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 6
 trojan://Watashi_VPN@www.speedtest.net:443/?type=ws&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=%2F%3Fed%3D2560&security=tls&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome#@vpnclashfa - 5
 trojan://M3lOal9RPR@kkr100515a.go02.top:30056/?type=tcp&security=tls&sni=kkr100515a.go02.top#@vpnclashfa - 4
 trojan://M3lOal9RPR@146.56.171.71:30056/?type=tcp&security=tls&sni=kkr100515a.go02.top#@vpnclashfa - 3
