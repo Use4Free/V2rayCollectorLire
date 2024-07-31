@@ -1,7 +1,5 @@
-trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 7
-trojan://tKadZAThEQ@188.245.59.155:57875?type=tcp&security=none#@vpnclashfa - 6
-trojan://ZUbitpXFy8LK8mdWkU6Fvg@85.237.211.134:2083/?type=ws&security=tls&sni=c307a960c3f48cb0.gstatic.com#@vpnclashfa - 5
-trojan://YC2aEo3mRz@193.124.46.147:52398?security=none&headerType=none&type=tcp#@vpnclashfa - 4
-trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#@vpnclashfa - 3
-trojan://H9j6Vrbp82TKagCFTSyZZA@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#@vpnclashfa - 2
-trojan://2rKkSmjgP2@3.67.83.15:1935?security=tls&headerType=none&type=tcp&sni=x1germany.devefun.eu#@vpnclashfa - 1
+trojan://ypDt8RkT7J@31.172.67.242:43118/?type=tcp&security=tls&sni=tpmwh.phooeyunfold.com#@vpnclashfa - 5
+trojan://tKadZAThEQ@188.245.59.155:57875?type=tcp&security=none#@vpnclashfa - 4
+trojan://ZUbitpXFy8LK8mdWkU6Fvg@85.237.211.134:2083/?type=ws&security=tls&sni=c307a960c3f48cb0.gstatic.com#@vpnclashfa - 3
+trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#@vpnclashfa - 2
+trojan://H9j6Vrbp82TKagCFTSyZZA@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#@vpnclashfa - 1
