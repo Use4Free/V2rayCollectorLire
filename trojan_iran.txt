@@ -1,5 +1,4 @@
-trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 5
-trojan://JiFAKwJXpj@148.135.45.121:45093?type=tcp&security=none#@vpnclashfa - 4
+trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 4
 trojan://H9j6Vrbp82TKagCFTSyZZA@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#@vpnclashfa - 3
 trojan://CI3olZiurt@germany.raspberryip.com:14412/?type=grpc&security=tls&sni=germany.raspberryip.com&alpn=h2%2Chttp%2F1.1&fp=chrome#@vpnclashfa - 2
 trojan://2rKkSmjgP2@3.67.83.15:1935?security=tls&headerType=none&type=tcp&sni=x1germany.devefun.eu#@vpnclashfa - 1
