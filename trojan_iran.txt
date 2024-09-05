@@ -1,12 +1,7 @@
-trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com#@vpnclashfa - 26
-trojan://tg-dns68@cf.090227.xyz:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 25
-trojan://tg-dns68@198.62.62.6:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 24
-trojan://tg-dns68@198.62.62.37:443/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 23
-trojan://tg-dns68@175.214.26.212:12273/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 22
-trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 21
-trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 20
-trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#@vpnclashfa - 19
-trojan://f653ef08c54e21b3@13.114.31.41:3306/?type=ws&host=TG.WangCai_1&path=%2Fgateway%2Fconnect&security=tls&sni=TG.WangCai2&allowInsecure=1#@vpnclashfa - 18
+trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com#@vpnclashfa - 21
+trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 20
+trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 19
+trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#@vpnclashfa - 18
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#@vpnclashfa - 17
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#@vpnclashfa - 16
 trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#@vpnclashfa - 15
