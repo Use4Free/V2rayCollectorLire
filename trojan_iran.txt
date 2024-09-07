@@ -1,5 +1,9 @@
-trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 22
-trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 21
+trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 26
+trojan://telegram-id-privatevpns@46.137.162.158:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 25
+trojan://telegram-id-privatevpns@3.9.205.65:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 24
+trojan://telegram-id-privatevpns@3.74.225.32:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 23
+trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 22
+trojan://telegram-id-privatevpns@18.199.39.63:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 21
 trojan://hjcgdAqcim@140.82.33.72:20722?security=tls&headerType=none&type=tcp#@vpnclashfa - 20
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#@vpnclashfa - 19
 trojan://cb1f26aa437d4bfa9b841d28503ce8cc@198.41.220.5:443/?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#@vpnclashfa - 18
