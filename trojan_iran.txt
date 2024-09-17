@@ -1,0 +1,2 @@
+trojan://6d25dd28-80a4-4f63-80c6-f36d6ce1d25f@94.131.122.157:2053?security=tls&headerType=none&type=tcp#@vpnclashfa - 2
+trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&headerType=none&type=tcp&sni=ftp.debian.org#@vpnclashfa - 1
