@@ -1,3 +1,1 @@
-trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@9d6415d6fe8c849219ea495715274e4e.v1.cac.node-is.green:48558?security=tls&headerType=none&type=tcp&sni=us1.speedtest.net#@vpnclashfa - 3
-trojan://6d25dd28-80a4-4f63-80c6-f36d6ce1d25f@94.131.122.157:2053?security=tls&headerType=none&type=tcp#@vpnclashfa - 2
-trojan://2997d686-d910-441b-a15c-c8d11c366025@185.234.66.155:2053?security=tls&headerType=none&type=tcp&sni=ftp.debian.org#@vpnclashfa - 1
+trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@9d6415d6fe8c849219ea495715274e4e.v1.cac.node-is.green:48558?security=tls&headerType=none&type=tcp&sni=us1.speedtest.net#@vpnclashfa - 1
