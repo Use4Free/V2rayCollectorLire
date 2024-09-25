@@ -1,1 +1,2 @@
-trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@9d6415d6fe8c849219ea495715274e4e.v1.cac.node-is.green:48558?security=tls&headerType=none&type=tcp&sni=us1.speedtest.net#@vpnclashfa - 1
+trojan://b36c2da0-7aba-4311-a44e-f6cf68df3963@9d6415d6fe8c849219ea495715274e4e.v1.cac.node-is.green:48558?security=tls&headerType=none&type=tcp&sni=us1.speedtest.net#@vpnclashfa - 2
+trojan://auto@162.159.136.232:8443?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 1
