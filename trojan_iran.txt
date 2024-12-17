@@ -1,3 +1,2 @@
-trojan://blue2024@104.18.170.217:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#@vpnclashfa - 3
-trojan://auto@iranserver.com:8443?path=%2F%40Azarakhsh_Proxy%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=tg.cmliussss.us.kg&fp=randomized&type=ws&sni=tg.cmliussss.us.kg#@vpnclashfa - 2
+trojan://blue2024@104.18.170.217:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#@vpnclashfa - 2
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
