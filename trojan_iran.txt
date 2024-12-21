@@ -1,4 +1,6 @@
-trojan://blue2024@104.18.170.217:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#@vpnclashfa - 4
+trojan://blue2024@104.18.170.217:443?path=%2F%3Fed&security=tls&host=ha.lii2010.us.kg&type=ws&sni=ha.lii2010.us.kg#@vpnclashfa - 6
+trojan://R01J5oNUp3@212.224.86.91:40026?security=tls&headerType=none&type=tcp#@vpnclashfa - 5
+trojan://Julius@193.106.248.196:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 4
 trojan://Julius@104.219.41.229:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 3
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 2
 trojan://5d521440-bbea-11ef-a6d4-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#@vpnclashfa - 1
