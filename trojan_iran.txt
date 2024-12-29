@@ -1,8 +1,8 @@
 trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 11
 trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 10
-trojan://R01J5oNUp3@212.224.86.91:40026?security=tls&headerType=none&type=tcp#@vpnclashfa - 9
-trojan://Julius@193.106.248.196:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 8
-trojan://Julius@104.219.41.229:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 7
+trojan://b80Iy90Fma@104.26.9.227:443?path=%2Fcfyyds&security=tls&host=usa03.rtx.al&fp=random&type=ws&sni=usa03.rtx.al#@vpnclashfa - 9
+trojan://R01J5oNUp3@212.224.86.91:40026?security=tls&headerType=none&type=tcp#@vpnclashfa - 8
+trojan://Julius@193.106.248.196:443?security=tls&headerType=none&type=tcp&sni=miami.juliusnet.com#@vpnclashfa - 7
 trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 6
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 5
 trojan://5d521440-bbea-11ef-a6d4-1239d0255272@51.210.182.170:443?security=tls&headerType=none&type=tcp&sni=speedtest.net#@vpnclashfa - 4
