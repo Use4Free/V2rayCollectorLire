@@ -1,9 +1,8 @@
-trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 18
-trojan://trojan@104.18.5.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 17
-trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 16
-trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 15
-trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 14
-trojan://b80Iy90Fma@104.26.9.227:443?path=%2Fcfyyds&security=tls&host=usa03.rtx.al&fp=random&type=ws&sni=usa03.rtx.al#@vpnclashfa - 13
+trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 17
+trojan://trojan@104.18.5.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 16
+trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 15
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 14
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 13
 trojan://auto@188.114.99.81:443?path=%2F&security=tls&host=mazq100za43.962dael.workers.dev&type=ws&sni=mazq100za43.962dael.workers.dev#@vpnclashfa - 12
 trojan://Julius@66.59.197.211:443?security=tls&type=tcp#@vpnclashfa - 11
 trojan://Julius@66.59.197.211:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 10
