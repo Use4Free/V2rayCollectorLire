@@ -1,5 +1,15 @@
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 6
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 5
+trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 16
+trojan://trojan@104.18.5.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 15
+trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 14
+trojan://e8105dfd24414268b6c7652c63731097@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 13
+trojan://auto@188.114.99.81:443?path=%2F&security=tls&host=mazq100za43.962dael.workers.dev&type=ws&sni=mazq100za43.962dael.workers.dev#@vpnclashfa - 12
+trojan://Julius@66.59.197.211:443?security=tls&type=tcp#@vpnclashfa - 11
+trojan://Julius@66.59.197.211:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 10
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@168.138.142.53:443?security=tls&headerType=none&type=tcp&sni=bz02.ssr.ee#@vpnclashfa - 9
+trojan://984e400bf5d541b7b0815913fe0c432a@yournextcareerstep.online:443?security=tls&type=tcp#@vpnclashfa - 8
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 7
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 6
+trojan://4c0064e3-3ad6-4c96-bf21-4eb7ea4bbcb5@[2404:c140:1f00:1e::1b90]:8886?security=tls&headerType=none&fp=random&type=tcp#@vpnclashfa - 5
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 4
 trojan://3555@link.5557.run:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=tw01.trojanyyds.xyz#@vpnclashfa - 2
