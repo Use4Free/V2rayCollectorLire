@@ -1,5 +1,7 @@
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 5
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 4
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 7
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 6
+trojan://3723507166611775488@87.120.167.51:443?security=tls&headerType=none&type=tcp&sni=concrete-buzzard.boa152.lol#@vpnclashfa - 5
+trojan://3723507166611775488@5.189.203.39:443?security=tls&headerType=none&type=tcp&sni=lucky-grouper.boa152.lol#@vpnclashfa - 4
 trojan://3555@link.5557.run:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 3
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw01.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=tw01.trojanyyds.xyz#@vpnclashfa - 2
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls&headerType=none&type=tcp&sni=sg02.trojanyyds.xyz#@vpnclashfa - 1
