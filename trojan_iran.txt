@@ -1,3 +1,5 @@
+trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&headerType=none&type=tcp#@vpnclashfa - 9
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 8
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 7
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 6
 trojan://3723507166611775488@87.120.167.51:443?security=tls&headerType=none&type=tcp&sni=concrete-buzzard.boa152.lol#@vpnclashfa - 5
