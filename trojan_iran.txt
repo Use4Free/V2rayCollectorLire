@@ -1,9 +1,6 @@
-trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&headerType=none&type=tcp#@vpnclashfa - 14
-trojan://9Bb6wjlTOA@93.189.94.159:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x14spain.devefun.net#@vpnclashfa - 13
-trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 12
-trojan://860KsF*TS%jSaaC&@www.csgo.com:2096?path=%2Ftray6PQ4HWHk1oEHNU%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=hp-dubai.pages.dev&fp=randomized&type=ws&sni=HP-DUbAI.pAges.dEV#@vpnclashfa - 11
-trojan://860KsF*TS%jSaaC&@172.66.47.56:2053?path=%2FtrwE73n8VD4NGdUaxV%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=hp-dubai.pages.dev&fp=randomized&type=ws&sni=hp-DuBaI.PAGEs.DeV#@vpnclashfa - 10
-trojan://860KsF*TS%jSaaC&@172.66.44.200:2053?path=%2FtrKIjIxhf4pacCD2Ie%2FMy4yOS4xMDIuODk%3D%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=hp-dubai.pages.dev&fp=randomized&type=ws&sni=hP-duBAi.Pages.DEV#@vpnclashfa - 9
+trojan://ypDt8RkT7J@185.180.13.70:43118?security=tls&headerType=none&type=tcp#@vpnclashfa - 11
+trojan://9Bb6wjlTOA@93.189.94.159:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x14spain.devefun.net#@vpnclashfa - 10
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?security=tls&headerType=none&type=tcp&sni=yournextcareerstep.online#@vpnclashfa - 9
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 8
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 7
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#@vpnclashfa - 6
