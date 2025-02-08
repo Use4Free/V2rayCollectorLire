@@ -1,4 +1,3 @@
-trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443?security=tls&headerType=none&type=tcp&sni=imprint.freetrade.link#@vpnclashfa - 7
 trojan://tg-fq521free@194.76.18.129:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#@vpnclashfa - 6
 trojan://Pooria@www.speedtest.net:443?type=ws&host=301.pooriam.ir&path=/trPyOrWMfkHd15oxiI?ed%3D1520&security=tls&fp=randomized&sni=301.pOORiAm.ir&alpn=h2,http/1.1#@vpnclashfa - 5
 trojan://@b]X;KpG4}3z}W1Y@upn-a3b.pages.dev:8443?path=%2FtrUnABr1RuanmVvjS1%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=upn-a3b.pages.dev&fp=randomized&type=ws&sni=upN-A3B.pAges.DEv#@vpnclashfa - 4
