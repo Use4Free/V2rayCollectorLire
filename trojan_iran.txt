@@ -1,6 +1,5 @@
-trojan://tg-fq521free@194.76.18.129:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#@vpnclashfa - 6
-trojan://Pooria@www.speedtest.net:443?type=ws&host=301.pooriam.ir&path=/trPyOrWMfkHd15oxiI?ed%3D1520&security=tls&fp=randomized&sni=301.pOORiAm.ir&alpn=h2,http/1.1#@vpnclashfa - 5
-trojan://@b]X;KpG4}3z}W1Y@upn-a3b.pages.dev:8443?path=%2FtrUnABr1RuanmVvjS1%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=upn-a3b.pages.dev&fp=randomized&type=ws&sni=upN-A3B.pAges.DEv#@vpnclashfa - 4
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 3
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#@vpnclashfa - 2
+trojan://tg-fq521free@194.76.18.129:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#@vpnclashfa - 5
+trojan://Pooria@www.speedtest.net:443?type=ws&host=301.pooriam.ir&path=/trPyOrWMfkHd15oxiI?ed%3D1520&security=tls&fp=randomized&sni=301.pOORiAm.ir&alpn=h2,http/1.1#@vpnclashfa - 4
+trojan://@b]X;KpG4}3z}W1Y@upn-a3b.pages.dev:8443?path=%2FtrUnABr1RuanmVvjS1%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=upn-a3b.pages.dev&fp=randomized&type=ws&sni=upN-A3B.pAges.DEv#@vpnclashfa - 3
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 2
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#@vpnclashfa - 1
