@@ -1,3 +1,4 @@
+trojan://auto@172.66.46.254:443?path=%2F%3Fed%3D2560&security=tls&host=dcf741e8.epeius-2gy.pages.dev&type=ws&sni=dcf741e8.epeius-2gy.pages.dev#@vpnclashfa - 4
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 3
 trojan://3747000103274291200@85.90.194.160:443?security=tls&headerType=none&type=tcp&sni=awaited-chicken.adder289.quest#@vpnclashfa - 2
 trojan://3747000103274291200@62.112.221.57:443?security=tls&headerType=none&type=tcp&sni=integral-malamute.adder289.quest#@vpnclashfa - 1
