@@ -1,3 +1,4 @@
-trojan://nV1T2yKo1rOwLZjnugomhg@20.173.66.64:2083?security=tls&type=ws&sni=0c4890bb81ee4c8e.gstatic.com#@vpnclashfa - 3
-trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#@vpnclashfa - 2
+trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#@vpnclashfa - 4
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@vpnclashfa - 3
+trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#@vpnclashfa - 2
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
