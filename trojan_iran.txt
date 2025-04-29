@@ -1,5 +1,8 @@
-trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#@vpnclashfa - 12
-trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#@vpnclashfa - 11
+trojan://xxoo@138.197.5.103:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#@vpnclashfa - 15
+trojan://t2WqbIW2JE@15.204.175.111:2083?path=%2Flinkvws&security=tls&host=usa-vp-111.mETIkaPPs.cOm&type=ws&sni=usa-vp-111.mETIkaPPs.cOm#@vpnclashfa - 14
+trojan://psycho@104.21.64.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#@vpnclashfa - 13
+trojan://psycho@104.21.16.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&type=ws&sni=pSYcho.sUeX12.IR#@vpnclashfa - 12
+trojan://psycho@104.21.112.1:443?path=%2Ftrv9KENu5FqbFAtPFq%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=psycho.suex12.ir&fp=randomized&type=ws&sni=pSYcho.sUeX12.IR#@vpnclashfa - 11
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#@vpnclashfa - 10
 trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#@vpnclashfa - 9
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#@vpnclashfa - 8
