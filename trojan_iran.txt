@@ -1,4 +1,5 @@
-trojan://pqlnPNu423@57.129.89.172:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#@vpnclashfa - 7
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#@vpnclashfa - 8
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#@vpnclashfa - 7
 trojan://klZqKyxq0H@57.128.165.173:1935?security=tls&headerType=none&type=tcp&sni=x1-england-ovh-v2.devefun.net#@vpnclashfa - 6
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@95.164.35.208:443?security=tls&host=tag-frown-lying.stark-industries.solutions&headerType=none&type=tcp#@vpnclashfa - 5
 trojan://e733ae52-7964-401b-8cc9-3cc2115d0040@94.131.97.12:443?security=tls&host=bats-paper-chump.stark-industries.solutions&headerType=none&type=tcp#@vpnclashfa - 4
