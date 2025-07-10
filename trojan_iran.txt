@@ -1,4 +1,4 @@
-trojan://vip@104.18.42.163:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnclashfa - 8
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#@vpnclashfa - 8
 trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#@vpnclashfa - 7
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InEcmjyiKVby2Lp&security=tls&alpn=http%2F1.1&host=dddddddddffff.iran2035.dpdns.org&fp=chrome&type=ws&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG#@vpnclashfa - 6
 trojan://Aimer@103.116.7.133:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me#@vpnclashfa - 5
