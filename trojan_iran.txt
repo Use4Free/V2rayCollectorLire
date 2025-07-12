@@ -1,9 +1,7 @@
-trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#@vpnclashfa - 9
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#@vpnclashfa - 8
-trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?path=%2Fxa846InEcmjyiKVby2Lp&security=tls&alpn=http%2F1.1&host=dddddddddffff.iran2035.dpdns.org&fp=chrome&type=ws&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG#@vpnclashfa - 7
-trojan://Aimer@103.116.7.133:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me#@vpnclashfa - 6
-trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@vpnclashfa - 5
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@vpnclashfa - 4
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 3
-trojan://4174b95d-115e-4d39-add6-1f8db95bb860@172.67.153.179:443?path=%2FuzJNzgkkYWRWGxgFnoFPw1&security=tls&alpn=http%2F1.1&host=qqqqqqqqqqa.www890604.dpdns.org&fp=chrome&type=ws&sni=qqqqqqqqqqa.www890604.dpdns.org#@vpnclashfa - 2
+trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#@vpnclashfa - 7
+trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#@vpnclashfa - 6
+trojan://Aimer@103.116.7.133:2083/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me#@vpnclashfa - 5
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@vpnclashfa - 4
+trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#@vpnclashfa - 3
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 2
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@vpnclashfa - 1
