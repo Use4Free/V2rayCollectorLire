@@ -1,5 +1,4 @@
-trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnclashfa - 5
-trojan://trojan@www.digitalocean.com:443?path=%2F%3Fed%3D2560&security=tls&host=azadnet-9ya.pages.dev&fp=random&type=ws&sni=azadnet-9ya.pages.dev#@vpnclashfa - 4
+trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnclashfa - 4
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#@vpnclashfa - 3
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 2
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#@vpnclashfa - 1
