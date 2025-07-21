@@ -1,5 +1,4 @@
-trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnclashfa - 5
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 4
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@vpnclashfa - 3
-trojan://DHvyBZAYmM@x5-france-scaleway-v2.devefun.org:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x5-france-scaleway-v2.devefun.org#@vpnclashfa - 2
+trojan://vip@www.pcmag.com:443?path=%2F%3Fed%3D2560&security=tls&host=heihu880.pages.dev&type=ws&sni=heihu880.pages.dev#@vpnclashfa - 4
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40V2ray_Alpha&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 3
+trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@vpnclashfa - 2
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
