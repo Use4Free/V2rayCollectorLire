@@ -1,10 +1,9 @@
-trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 13
-trojan://tunnel-astrovpn_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 12
-trojan://tunnel-astrovpn_official-fr@fr-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=fr-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 11
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 10
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 9
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 8
-trojan://bpb-trojan@104.26.4.60:443?path=%2Ftr%3Fed%3D2560&security=tls&host=zamim340.ggff.net&type=ws&sni=zamim340.ggff.net#@vpnclashfa - 7
+trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 12
+trojan://tunnel-astrovpn_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 11
+trojan://tunnel-astrovpn_official-fr@fr-1.stunnel.cc:8441?security=tls&alpn=http%2F1.1&host=fr-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@vpnclashfa - 10
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FTel-%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 9
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 8
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 7
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 6
 trojan://3aIMXgxQ3F@x1-germany-linode-v2-jk001.devefun.org:1935?security=tls&headerType=none&type=tcp#@vpnclashfa - 5
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=%2F%3Fed%3D2560&security=tls&host=t.hongkong6.qzz.io&fp=random&type=ws&sni=t.hongkong6.qzz.io#@vpnclashfa - 4
