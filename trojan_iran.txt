@@ -1,5 +1,4 @@
-trojan://ttfang@45.131.4.216:2096?path=%2FTelegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@vpnclashfa - 5
-trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#@vpnclashfa - 4
+trojan://ttfang@45.131.4.216:2096?path=%2FTelegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#@vpnclashfa - 4
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 3
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 2
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
