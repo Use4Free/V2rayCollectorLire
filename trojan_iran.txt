@@ -1,7 +1,5 @@
-trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=%2Fmoshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#@vpnclashfa - 13
-trojan://slch2024@198.202.211.195:2096?path=Telegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 12
-trojan://slch2024@195.26.229.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 11
-trojan://slch2024@192.169.220.195:2096?path=Telegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 10
+trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=%2Fmoshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#@vpnclashfa - 11
+trojan://slch2024@195.26.229.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 10
 trojan://slch2024@188.164.248.87:2096?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 9
 trojan://slch2024@185.7.240.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 8
 trojan://slch2024@185.251.81.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 7
