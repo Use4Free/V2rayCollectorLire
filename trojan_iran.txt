@@ -1,9 +1,4 @@
-trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=%2Fmoshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#@vpnclashfa - 12
-trojan://slch2024@195.26.229.195:2096?path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 11
-trojan://slch2024@188.164.248.87:2096?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 10
-trojan://slch2024@185.7.240.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 9
-trojan://slch2024@185.251.81.195:2096?path=%2FTelegram%40ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@vpnclashfa - 8
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#@vpnclashfa - 7
+trojan://zL78LA0D5P@5.255.103.217:58194?mode=stream-one&path=%2Fmoshali33&security=tls&alpn=h3&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=xhttp&sni=moshali.arshiacomplus.dpdns.org.cer#@vpnclashfa - 7
 trojan://bb0471a3-7d50-40c5-ad2f-1d452434d0ac@jp.111143.xyz:19528?path=%2Fbb0471a3-7d50-40c5-ad2f-1d452434d0ac&security=tls&host=jp.111143.xyz&type=ws#@vpnclashfa - 6
 trojan://XWnVX2ASHl@5.255.103.217:37757?path=%2Fmoshaliplus&security=tls&alpn=http%2F1.1&host=moshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=moshali.arshiacomplus.dpdns.org#@vpnclashfa - 5
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 4
