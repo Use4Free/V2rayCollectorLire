@@ -1,0 +1,2 @@
+trojan://liCV_rq-BftxwXpM@167.160.10.54:12184?security=tls&headerType=none&type=tcp#@vpnclashfa - 2
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
