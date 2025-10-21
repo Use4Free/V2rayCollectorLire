@@ -1,4 +1,5 @@
-trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#@vpnclashfa - 13
+trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#@vpnclashfa - 14
+trojan://qEqueKB1ej@nl.scpnb.top:39371/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&sid=51be71a2bd#@vpnclashfa - 13
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=none&type=tcp#@vpnclashfa - 12
 trojan://installshield@38.180.106.124:8443/?type=tcp&security=tls#@vpnclashfa - 11
 trojan://installshield@23.162.152.30:8443/?type=tcp&security=tls#@vpnclashfa - 10
