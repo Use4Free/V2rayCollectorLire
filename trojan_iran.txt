@@ -1,4 +1,13 @@
-trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#@vpnclashfa - 4
-trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=none&type=tcp#@vpnclashfa - 3
-trojan://biOrJGlcfX@creativecommons.org:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#@vpnclashfa - 2
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
+trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#@vpnclashfa - 13
+trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=none&type=tcp#@vpnclashfa - 12
+trojan://installshield@38.180.106.124:8443/?type=tcp&security=tls#@vpnclashfa - 11
+trojan://installshield@23.162.152.30:8443/?type=tcp&security=tls#@vpnclashfa - 10
+trojan://e531d1bc-a56f-4e1a-a295-1442369a19c1@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:26004/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#@vpnclashfa - 9
+trojan://biOrJGlcfX@creativecommons.org:443?path=%2Fkos-madaret-khamneii&security=tls&alpn=h2%2Chttp%2F1.1&host=ghasem.kotlet.org&fp=firefox&type=ws&sni=ghasem.kotlet.org#@vpnclashfa - 8
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#@vpnclashfa - 7
+trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 6
+trojan://4ee94fb4-8fc8-438f-9de4-015d9035c227@172.64.229.7:443/?type=ws&host=mms-static-china-custom-ropfrckd.pddpic.men&path=%2Fapi%2Fv1%2Fserve&security=tls&sni=mms-static-china-custom-ropfrckd.pddpic.men#@vpnclashfa - 5
+trojan://4ee94fb4-8fc8-438f-9de4-015d9035c227@104.19.49.13:443/?type=ws&host=mms-static-china-custom-nbebbb.52edu.men&path=%2Fapi%2Fv1%2Fserve&security=tls&sni=mms-static-china-custom-nbebbb.52edu.men#@vpnclashfa - 4
+trojan://3BLPOJr3OY@pl.scpnb.top:50191/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=wJIhXHD_EuOXggJz8ad6Er_SdUUhsPg9rTYwkACmuU0&sid=2e#@vpnclashfa - 3
+trojan://1sbtkLK7F3@195.22.157.104:37085/?type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2Fmoshali2plus&security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome#@vpnclashfa - 2
+trojan://13430296-2407-4839-900f-db97584fb27a@34.217.92.216:20230/?type=ws&host=www.alibaba.com&security=tls&sni=www.alibaba.com#@vpnclashfa - 1
