@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@13.39.36.94:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 29
 trojan://telegram-id-directvpn@51.45.22.229:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 28
 trojan://qEqueKB1ej@nl.scpnb.top:39371/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=Or_ba9zDYiBq1A8clfxXbpaWEdkrb7uM9MlqmOcaRBQ&sid=51be71a2bd#@vpnclashfa - 27
 trojan://installshield@23.162.152.30:8443/?type=tcp&security=tls#@vpnclashfa - 26
