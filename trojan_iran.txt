@@ -1,5 +1,3 @@
-trojan://telegram-id-privatevpns@13.39.36.94:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 34
-trojan://telegram-id-directvpn@51.45.22.229:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
 trojan://f689978c12a90981@88.210.36.107:443/?type=grpc&serviceName=db&security=tls&sni=TG.WangCai2&alpn=h2#@vpnclashfa - 32
 trojan://f689978c12a90981@23.247.137.73:443/?type=grpc&serviceName=db&security=tls&sni=TG.WangCai2&alpn=h2#@vpnclashfa - 31
 trojan://f689978c12a90981@23.247.137.67:443/?type=grpc&serviceName=db&security=tls&sni=TG.WangCai2&alpn=h2#@vpnclashfa - 30
