@@ -1,4 +1,5 @@
-trojan://telegram-id-privatevpns@15.236.156.19:22222/?type=tcp&security=tls#@vpnclashfa - 11
+trojan://telegram-id-privatevpns@15.236.156.19:22222/?type=tcp&security=tls#@vpnclashfa - 12
+trojan://telegram-id-directvpn@3.64.37.131:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 11
 trojan://telegram-id-directvpn@15.236.156.19:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 10
 trojan://YlfdAfTHoAuoRIbTPl@us-3.regentgrandvalley.com:443/?type=tcp&security=tls#@vpnclashfa - 9
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#@vpnclashfa - 8
