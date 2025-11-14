@@ -1,10 +1,8 @@
-trojan://telegram-id-directvpn@3.64.37.131:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 33
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443/?type=tcp&security=tls&sni=origin-a.akamaihd.net#@vpnclashfa - 32
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443/?type=tcp&security=tls&sni=steampipe.akamaized.net#@vpnclashfa - 31
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443/?type=tcp&security=tls&sni=www.nintendogames.net#@vpnclashfa - 30
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&sni=joss.dus.biz.id#@vpnclashfa - 29
-trojan://Sv5AzeZjawJfSMrhhS@v6-nl1.tr202501.com:4003/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 28
-trojan://Sv5AzeZjawJfSMrhhS@nl-1.tr202501.com:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 27
+trojan://telegram-id-directvpn@3.64.37.131:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 31
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.165.233:3443/?type=tcp&security=tls&sni=origin-a.akamaihd.net#@vpnclashfa - 30
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443/?type=tcp&security=tls&sni=steampipe.akamaized.net#@vpnclashfa - 29
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443/?type=tcp&security=tls&sni=www.nintendogames.net#@vpnclashfa - 28
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&sni=joss.dus.biz.id#@vpnclashfa - 27
 trojan://LxJCPOP40a@206.206.77.237:51469/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&sid=793dfc59cf7edf#@vpnclashfa - 26
 trojan://BxceQaOe@58.152.46.98:443/?type=tcp&security=tls#@vpnclashfa - 25
 trojan://BxceQaOe@203.198.122.97:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian#@vpnclashfa - 24
