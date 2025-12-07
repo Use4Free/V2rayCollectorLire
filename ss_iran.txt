@@ -1,5 +1,6 @@
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@[2001:bc8:1203:106::300]:33333#@vpnclashfa - 84
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#@vpnclashfa - 83
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@[2001:bc8:1203:106::300]:33333#@vpnclashfa - 85
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#@vpnclashfa - 84
+ss://YWVzLTI1Ni1nY206MTIz@14.18.106.88:6100#@vpnclashfa - 83
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#@vpnclashfa - 82
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#@vpnclashfa - 81
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#@vpnclashfa - 80
