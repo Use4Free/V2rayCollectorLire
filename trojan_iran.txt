@@ -1,10 +1,9 @@
-trojan://telegram-id-privatevpns@35.181.161.94:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 28
-trojan://telegram-id-privatevpns@18.193.90.253:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 27
-trojan://telegram-id-privatevpns@13.37.111.9:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 26
-trojan://telegram-id-privatevpns@13.37.103.10:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 25
-trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e#@vpnclashfa - 24
-trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14#@vpnclashfa - 23
-trojan://BxceQaOe@58.152.30.175:443/?type=tcp&security=tls&sni=58.152.30.175&allowInsecure=1#@vpnclashfa - 22
+trojan://telegram-id-privatevpns@35.181.161.94:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 27
+trojan://telegram-id-privatevpns@18.193.90.253:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 26
+trojan://telegram-id-privatevpns@13.37.111.9:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1&fp=chrome#@vpnclashfa - 25
+trojan://telegram-id-privatevpns@13.37.103.10:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 24
+trojan://Fv7ogJ6vfz@209.200.246.53:36774/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&sid=3e#@vpnclashfa - 23
+trojan://FodSUXysuS@180.131.145.161:23274/?type=grpc&sni=cloudflare.com&fp=chrome&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14#@vpnclashfa - 22
 trojan://BxceQaOe@58.152.30.120:443/?type=tcp&security=tls&allowInsecure=1#@vpnclashfa - 21
 trojan://BxceQaOe@58.152.25.20:443/?type=tcp&security=tls&sni=t.me%2Fripaojiedian&allowInsecure=1#@vpnclashfa - 20
 trojan://BxceQaOe@58.152.25.20:443/?type=tcp&security=tls&sni=t.me%252Fripaojiedian&allowInsecure=1#@vpnclashfa - 19
