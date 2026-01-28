@@ -1,7 +1,8 @@
-ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0@5.129.219.21:8080#@vpnclashfa - 22
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#@vpnclashfa - 21
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#@vpnclashfa - 20
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 19
+ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0@5.129.219.21:8080#@vpnclashfa - 23
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443#@vpnclashfa - 22
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#@vpnclashfa - 21
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 20
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@vpnclashfa - 19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnclashfa - 18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#@vpnclashfa - 17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#@vpnclashfa - 16
