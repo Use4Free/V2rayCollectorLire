@@ -1,4 +1,5 @@
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#@vpnclashfa - 32
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#@vpnclashfa - 33
+trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#@vpnclashfa - 32
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#@vpnclashfa - 31
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&sni=www.amazon.com&fp=chrome&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&sid=803975#@vpnclashfa - 30
 trojan://nodes-b211f28a@node-fr-1.v2sv.top:2083/?type=tcp&security=tls&sni=node-fr-1.v2sv.top&allowInsecure=1#@vpnclashfa - 29
