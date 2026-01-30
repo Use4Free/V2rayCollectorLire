@@ -15,10 +15,10 @@ trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2F
 trojan://humanity@172.64.152.23:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#@vpnclashfa - 20
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1&fp=chrome#@vpnclashfa - 19
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#@vpnclashfa - 18
-trojan://Zy6DXTCxtR@sama.asukasimp.com:2087?mode=packet-up&path=%2F&security=tls&host=sni1.feydooomain.ir&fp=chrome&type=xhttp&sni=sni1.feydooomain.ir#@vpnclashfa - 17
-trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@vpnclashfa - 16
-trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@vpnclashfa - 15
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443/?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&allowInsecure=1#@vpnclashfa - 14
+trojan://a1197d2a-6407-4316-b775-88425bd95438@afrcloud3.mmv.kr:443/?type=ws&host=afrcloud3.mmv.kr&path=%2F159.60.146.81%3D443&security=tls&sni=afrcloud3.mmv.kr#@vpnclashfa - 17
+trojan://Zy6DXTCxtR@sama.asukasimp.com:2087?mode=packet-up&path=%2F&security=tls&host=sni1.feydooomain.ir&fp=chrome&type=xhttp&sni=sni1.feydooomain.ir#@vpnclashfa - 16
+trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@vpnclashfa - 15
+trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@vpnclashfa - 14
 trojan://M7v%25w11Se%2A@34.94.125.227:443?allowInsecure=1&sni=mxlo.wsone.icu#@vpnclashfa - 13
 trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293/?type=tcp&security=tls&sni=%F0%9F%94%92%20%5BBy%20DukeMehdi%5D&allowInsecure=1#@vpnclashfa - 12
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#@vpnclashfa - 11
