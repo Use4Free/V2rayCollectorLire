@@ -1,7 +1,8 @@
-ss://f6a1f4ad-9d26-43c7-bce3-025df8dac591@8.210.248.133:43307?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 39
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 38
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#@vpnclashfa - 37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#@vpnclashfa - 36
+ss://f6a1f4ad-9d26-43c7-bce3-025df8dac591@8.210.248.133:43307?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 40
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#@vpnclashfa - 38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#@vpnclashfa - 37
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#@vpnclashfa - 36
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#@vpnclashfa - 35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#@vpnclashfa - 34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#@vpnclashfa - 33
