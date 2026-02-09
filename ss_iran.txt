@@ -42,6 +42,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@vpnclashfa - 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RmZpaHdjNkV6YXo3OGlab29ieHRF@194.150.220.103:443#@vpnclashfa - 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#@vpnclashfa - 4
-ss://58fe1542-5290-40ad-815a-77707a81afe5@51.79.102.253:80?encryption=auto&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 3
-ss://516d8a7a-3f0b-41d3-bad0-246116381516@sy4.620720.xyz:443?allowInsecure=1&encryption=auto&host=sy4.620720.xyz&path=%2F&security=tls&sni=sy4.620720.xyz&type=ws#@vpnclashfa - 2
+ss://780c7671-e8c8-45ab-922b-4fdfc4310aa0@singapore02.zgjok.com:443?allowInsecure=1&encryption=auto&host=singapore02.zgjok.com&path=%2F&security=tls&sni=singapore02.zgjok.com&type=ws#@vpnclashfa - 3
+ss://58fe1542-5290-40ad-815a-77707a81afe5@51.79.102.253:80?encryption=auto&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 2
 ss://1a1e5196-eab4-4772-9012-65c27f19a524@seoul02.zgjok.com:443?allowInsecure=1&encryption=auto&host=seoul02.zgjok.com&path=%2F&security=tls&sni=seoul02.zgjok.com&type=ws#@vpnclashfa - 1
