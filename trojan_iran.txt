@@ -1,11 +1,9 @@
-trojan://tunnel-jdybi@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=creativecommons.org&allowInsecure=1#@vpnclashfa - 31
-trojan://telegram-id-directvpn@51.44.43.148:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 30
-trojan://telegram-id-directvpn@35.181.139.200:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 29
-trojan://telegram-id-directvpn@15.188.162.81:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 28
-trojan://telegram-id-directvpn@13.39.63.241:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 27
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#@vpnclashfa - 26
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#@vpnclashfa - 25
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=ws&host=free-de-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-2.undef.network&allowInsecure=1#@vpnclashfa - 24
+trojan://tunnel-jdybi@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=creativecommons.org&allowInsecure=1#@vpnclashfa - 29
+trojan://telegram-id-directvpn@51.44.43.148:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 28
+trojan://telegram-id-directvpn@15.188.162.81:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 27
+trojan://telegram-id-directvpn@13.39.63.241:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 26
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#@vpnclashfa - 25
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click&allowInsecure=1#@vpnclashfa - 24
 trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@ru2.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@vpnclashfa - 23
 trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@pl.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@vpnclashfa - 22
 trojan://mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo@ee2.nnvpn.io:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1#@vpnclashfa - 21
