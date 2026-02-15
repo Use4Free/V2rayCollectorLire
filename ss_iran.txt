@@ -45,4 +45,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@v
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#@vpnclashfa - 4
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#@vpnclashfa - 3
 ss://89e25562-d0f1-4f54-8afb-6ee374e30fbb@adelmeli.com:80?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 2
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.200:443?encryption=auto&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=linkvws&security=tls&sni=serkat.org&type=ws#@vpnclashfa - 1
+ss://40e306a6-7cab-40ac-a085-a961895eb11b@109.104.153.12:20104?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 1
