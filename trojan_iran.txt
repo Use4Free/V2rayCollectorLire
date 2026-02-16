@@ -1,5 +1,6 @@
-trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-3.undef.network&allowInsecure=1#@vpnclashfa - 31
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#@vpnclashfa - 30
+trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443/?type=ws&host=free-de-3.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-3.undef.network&allowInsecure=1#@vpnclashfa - 32
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#@vpnclashfa - 31
+trojan://tunnel-jdybi@tr-1.stunnel.cc:8441/?type=tcp&security=tls&sni=creativecommons.org&allowInsecure=1#@vpnclashfa - 30
 trojan://telegram-id-directvpn@35.181.139.200:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 29
 trojan://telegram-id-directvpn@15.188.162.81:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&allowInsecure=1#@vpnclashfa - 28
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=ws&host=free-de-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-2.undef.network&allowInsecure=1#@vpnclashfa - 27
