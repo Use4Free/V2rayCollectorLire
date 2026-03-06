@@ -1,4 +1,4 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&host=bmw.com&path=%2F&security=none&type=tcp#@vpnclashfa - 43
+ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@vpnclashfa - 43
 ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:443#@vpnclashfa - 42
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 41
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#@vpnclashfa - 40
