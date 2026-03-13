@@ -1,8 +1,7 @@
-ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 53
-ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#@vpnclashfa - 52
-ss://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 51
-ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 50
-ss://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 49
+ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 52
+ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#@vpnclashfa - 51
+ss://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 50
+ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 49
 ss://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#@vpnclashfa - 48
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#@vpnclashfa - 47
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 46
@@ -48,6 +47,6 @@ ss://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encry
 ss://4ea0fcda-4f32-4dc6-8e01-993d5fdcf65c@45.152.21.193:48814?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 6
 ss://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
 ss://3b134252-e7c2-43df-98b7-da204104aa79@192.227.249.227:27641?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 3
-ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 2
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 3
+ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 2
 ss://2c303328-4286-5eb9-b7b4-6fa3bd7cdaeb@209.200.246.179:443?allowInsecure=1&encryption=auto&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@vpnclashfa - 1
