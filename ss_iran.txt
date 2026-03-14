@@ -53,9 +53,9 @@ ss://9f9b2ba3-77c1-400f-9b72-76b9b0829e51@gbnhju.7no.ccwu.cc:80?encryption=auto&
 ss://9a1351cb-d8be-4182-8145-353425969ac0@45.152.21.193:29628?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 18
 ss://91aa45c8-c229-4986-ad11-ac4999d9c0a9@fsdns.ectunnelvpn.me:80?encryption=auto&host=fsdns.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 17
 ss://8072298f-cd28-4a61-8e05-5879c84b9100@chatgpt.com:443?encryption=auto&host=neva.azlan.biz.id&path=%2Fvmess&security=tls&sni=neva.azlan.biz.id&type=ws#@vpnclashfa - 16
-ss://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 15
-ss://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 14
-ss://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?encryption=auto&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 13
+ss://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 15
+ss://60441548-b68e-43b2-8191-e3b884be4b3c@chatgpt.com:8443?encryption=auto&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 14
+ss://5c040f1d-45db-43bd-8d46-e4950e433735@45.90.106.24:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#@vpnclashfa - 13
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#@vpnclashfa - 12
 ss://4ea0fcda-4f32-4dc6-8e01-993d5fdcf65c@45.152.21.193:48814?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 11
 ss://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#@vpnclashfa - 10
