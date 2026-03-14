@@ -2,7 +2,7 @@ ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&s
 ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#@vpnclashfa - 63
 ss://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 62
 ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 61
-ss://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 60
+ss://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#@vpnclashfa - 60
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443#@vpnclashfa - 59
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 58
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#@vpnclashfa - 57
