@@ -1,9 +1,7 @@
-ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 80
-ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 79
-ss://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 78
-ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 77
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 76
-ss://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#@vpnclashfa - 75
+ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#@vpnclashfa - 78
+ss://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#@vpnclashfa - 77
+ss://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 76
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 75
 ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:443#@vpnclashfa - 74
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@vpnclashfa - 73
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#@vpnclashfa - 72
