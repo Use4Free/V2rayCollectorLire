@@ -1,5 +1,6 @@
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#@vpnclashfa - 41
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#@vpnclashfa - 40
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#@vpnclashfa - 42
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#@vpnclashfa - 41
+trojan://humanity@www.multiplydose.com:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&type=ws#@vpnclashfa - 40
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@vpnclashfa - 39
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#@vpnclashfa - 38
 trojan://humanity@www.creationlong.org:443?allowInsecure=1&path=%2Fassignment&type=ws#@vpnclashfa - 37
