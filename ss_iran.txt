@@ -1,7 +1,6 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 77
-ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 76
-ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 75
-ss://c592f040-faff-47dc-a464-9bccf2dd4e7b@n1761214919.mv7wh.tech:443?allowInsecure=1&encryption=auto&host=n1761214919.mv7wh.tech&path=%2F&security=tls&sni=n1761214919.mv7wh.tech&type=ws#@vpnclashfa - 74
+ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 76
+ss://eafa523f-3472-4efc-f1c5-6ce25b3910a9@77.90.11.178:17662?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 75
+ss://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#@vpnclashfa - 74
 ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2a14:7584:d0a2::a]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 73
 ss://b1d3007c-441a-42d5-84b5-20301c46fa2c@n1761214905.wpg27.xyz:443?allowInsecure=1&encryption=auto&host=n1761214905.wpg27.xyz&path=%2F&security=tls&sni=n1761214905.wpg27.xyz&type=ws#@vpnclashfa - 72
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#@vpnclashfa - 71
@@ -62,7 +61,7 @@ ss://6abe3ac8-e1f8-4b24-bb67-191bc23b5fab@cg1d05.waimaojd.com:443?allowInsecure=
 ss://65e2a985-ad20-4486-a7ec-b67b20ee56af@47.90.244.153:8443?encryption=auto&path=%2Fws&security=none&type=ws#@vpnclashfa - 16
 ss://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?allowInsecure=1&encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@vpnclashfa - 15
 ss://58fe1542-5290-40ad-815a-77707a81afe5@51.79.102.253:80?encryption=auto&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 14
-ss://58fe1542-5290-40ad-815a-77707a81afe5@15.235.41.200:80?encryption=auto&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 13
+ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&security=none&type=ws#@vpnclashfa - 13
 ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 12
 ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 11
 ss://4378a67e-d277-44b5-a99b-a947fff1ee21@cg1c15.waimaojd.com:443?allowInsecure=1&encryption=auto&host=cg1c15.waimaojd.com&path=%2Fapi%2Fv1%2Fgraphql&security=tls&sni=cg1c15.waimaojd.com&type=ws#@vpnclashfa - 10
