@@ -61,8 +61,8 @@ ss://58fe1542-5290-40ad-815a-77707a81afe5@51.79.102.253:80?encryption=auto&path=
 ss://58fe1542-5290-40ad-815a-77707a81afe5@15.235.41.200:80?encryption=auto&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#@vpnclashfa - 12
 ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 11
 ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 10
-ss://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?allowInsecure=1&encryption=auto&host=n1761214911.74qxv.top&path=%2F&security=tls&sni=n1761214911.74qxv.top&type=ws#@vpnclashfa - 9
-ss://3514a93f-bb26-4442-8f99-971b2ff3388a@n1761214908.wpg27.xyz:443?allowInsecure=1&encryption=auto&host=n1761214908.wpg27.xyz&path=%2F&security=tls&sni=n1761214908.wpg27.xyz&type=ws#@vpnclashfa - 8
+ss://4378a67e-d277-44b5-a99b-a947fff1ee21@cg1c15.waimaojd.com:443?allowInsecure=1&encryption=auto&host=cg1c15.waimaojd.com&path=%2Fapi%2Fv1%2Fgraphql&security=tls&sni=cg1c15.waimaojd.com&type=ws#@vpnclashfa - 9
+ss://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?allowInsecure=1&encryption=auto&host=n1761214911.74qxv.top&path=%2F&security=tls&sni=n1761214911.74qxv.top&type=ws#@vpnclashfa - 8
 ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=v2ray.codefyinc.com&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 7
 ss://1f2daf43-ff90-4df9-9276-dfb8486d72bc@8.218.52.5:443?allowInsecure=1&encryption=auto&path=%2F&security=tls&sni=n1761214915.mv7wh.tech&type=ws#@vpnclashfa - 6
 ss://1effac4a-cdb8-4717-a10c-da97263c802c@n1761296880.lie5d.cyou:443?allowInsecure=1&encryption=auto&host=n1761296880.lie5d.cyou&path=%2F&security=tls&sni=n1761296880.lie5d.cyou&type=ws#@vpnclashfa - 5
