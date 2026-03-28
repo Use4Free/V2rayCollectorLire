@@ -1,7 +1,5 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 80
-ss://e5408561-3874-4d41-a744-0cd0dfdb86c8@51.89.11.94:443?encryption=auto&headerType=http&host=51.89.11.94&security=none&type=tcp#@vpnclashfa - 79
-ss://e070e567-7996-45a9-9016-0143420946ef@d2fog4flcfgb8c.cloudfront.net:443?encryption=auto&path=%2F8536cb1926c24bbc99d7bd93350ec564&security=tls&type=ws#@vpnclashfa - 78
-ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2a14:7584:d0a2::a]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 77
+ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 78
+ss://e070e567-7996-45a9-9016-0143420946ef@d2fog4flcfgb8c.cloudfront.net:443?encryption=auto&path=%2F8536cb1926c24bbc99d7bd93350ec564&security=tls&type=ws#@vpnclashfa - 77
 ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@vpnclashfa - 76
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@vpnclashfa - 75
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@vpnclashfa - 74
