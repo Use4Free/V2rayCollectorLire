@@ -1,8 +1,6 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 105
-ss://e5408561-3874-4d41-a744-0cd0dfdb86c8@51.89.11.94:443?encryption=auto&headerType=http&host=51.89.11.94&security=none&type=tcp#@vpnclashfa - 104
-ss://e070e567-7996-45a9-9016-0143420946ef@d2fog4flcfgb8c.cloudfront.net:443?encryption=auto&path=%2F8536cb1926c24bbc99d7bd93350ec564&security=tls&type=ws#@vpnclashfa - 103
-ss://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:2052?encryption=auto&host=www.bing.com&path=bb7d8763-4afa-465f-b066-35786781ced2-vm&security=none&type=ws#@vpnclashfa - 102
-ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@vpnclashfa - 101
+ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#@vpnclashfa - 103
+ss://e5408561-3874-4d41-a744-0cd0dfdb86c8@51.89.11.94:443?encryption=auto&headerType=http&host=51.89.11.94&security=none&type=tcp#@vpnclashfa - 102
+ss://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:2052?encryption=auto&host=www.bing.com&path=bb7d8763-4afa-465f-b066-35786781ced2-vm&security=none&type=ws#@vpnclashfa - 101
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@vpnclashfa - 100
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@vpnclashfa - 99
 ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw@154.53.60.212:80#@vpnclashfa - 98
@@ -95,7 +93,7 @@ ss://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?encryption=au
 ss://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 11
 ss://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 10
 ss://4b80aa86-4354-40bb-d2a3-47126cff0bea@usaapp1.jisuyun.top:2053?encryption=auto&host=usaapp1.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp1.jisuyun.top&type=ws#@vpnclashfa - 9
-ss://4a1b829b-8394-42c1-a068-04cd8e6bcb3c@156.238.250.91:18811?encryption=auto&security=none&type=tcp#@vpnclashfa - 8
+ss://4b80aa86-4354-40bb-d2a3-47126cff0bea@172.233.137.157:2053?encryption=auto&host=usaapp1.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp1.jisuyun.top&type=ws#@vpnclashfa - 8
 ss://3d74c959-2a4c-4df8-887a-4f9736a77b6f@zdqbk.cmvvb.online:8443?encryption=auto&host=zdqbk.cmvvb.online&path=%2F&security=tls&sni=zdqbk.cmvvb.online&type=ws#@vpnclashfa - 7
 ss://3b6d715d-d817-4e13-b590-c0b38ce86734@104.18.40.152:8880?encryption=auto&host=game.fley.eu.cc&path=%2Fmykingmusic&security=none&type=ws#@vpnclashfa - 6
 ss://34faa20a-7597-444c-81a3-a92042e3cd95@57.129.130.23:443?encryption=auto&headerType=http&host=57.129.130.23&security=none&type=tcp#@vpnclashfa - 5
