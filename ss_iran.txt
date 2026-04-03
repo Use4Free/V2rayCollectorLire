@@ -1,3 +1,4 @@
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 125
 ss://c5dd6680-64ad-4f04-9952-49d94984f9eb@35.240.225.23:8880?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 124
 ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2001:bc8:32d7:225::1]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 123
 ss://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:2052?encryption=auto&host=www.bing.com&path=bb7d8763-4afa-465f-b066-35786781ced2-vm&security=none&type=ws#@vpnclashfa - 122
@@ -115,8 +116,8 @@ ss://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encrypti
 ss://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encryption=auto&host=AZERB.NET&path=%2F&security=none&type=ws#@vpnclashfa - 10
 ss://845e6b08-2919-4290-ade0-5dc7dcea59ca@47.244.120.197:44867?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 9
 ss://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 8
-ss://4b80aa86-4354-40bb-d2a3-47126cff0bea@usaapp1.jisuyun.top:2053?encryption=auto&host=usaapp1.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp1.jisuyun.top&type=ws#@vpnclashfa - 7
-ss://4b80aa86-4354-40bb-d2a3-47126cff0bea@172.233.137.157:2053?encryption=auto&host=usaapp1.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp1.jisuyun.top&type=ws#@vpnclashfa - 6
+ss://4b80aa86-4354-40bb-d2a3-47126cff0bea@172.233.137.157:2053?encryption=auto&host=usaapp1.jisuyun.top&path=%2Fusavm&security=tls&sni=usaapp1.jisuyun.top&type=ws#@vpnclashfa - 7
+ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 6
 ss://3d74c959-2a4c-4df8-887a-4f9736a77b6f@zdqbk.cmvvb.online:8443?encryption=auto&host=zdqbk.cmvvb.online&path=%2F&security=tls&sni=zdqbk.cmvvb.online&type=ws#@vpnclashfa - 5
 ss://3b6d715d-d817-4e13-b590-c0b38ce86734@104.18.40.152:8880?encryption=auto&host=game.fley.eu.cc&path=%2Fmykingmusic&security=none&type=ws#@vpnclashfa - 4
 ss://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&host=209.126.84.189&path=%2Fvmessws&security=none&type=ws#@vpnclashfa - 3
