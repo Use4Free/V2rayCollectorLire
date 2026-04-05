@@ -1,5 +1,4 @@
-ss://d7f1325e-39f0-51ce-832d-5ae04fd5fa51@ca2.xvmess.site:443?allowInsecure=1&encryption=none&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@vpnclashfa - 109
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 108
+ss://d7f1325e-39f0-51ce-832d-5ae04fd5fa51@ca2.xvmess.site:443?allowInsecure=1&encryption=none&host=ca2.xvmess.site&path=%2Fvmess%23DONT-FORGET-TO-SUPPORT-SSHMAX.COM-TO-KEEP-THIS-SERVER-ALIVE&security=tls&sni=ca2.xvmess.site&type=ws#@vpnclashfa - 108
 ss://c5dd6680-64ad-4f04-9952-49d94984f9eb@35.240.225.23:8880?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 107
 ss://bd48e0ac-e90e-4451-a4f2-abf061cfb890@[2001:bc8:32d7:225::1]:23456?encryption=auto&host=www.bing.com&path=%2Falvin9999.com&security=none&type=ws#@vpnclashfa - 106
 ss://bb7d8763-4afa-465f-b066-35786781ced2@216.236.26.19:2052?encryption=auto&host=www.bing.com&path=bb7d8763-4afa-465f-b066-35786781ced2-vm&security=none&type=ws#@vpnclashfa - 105
