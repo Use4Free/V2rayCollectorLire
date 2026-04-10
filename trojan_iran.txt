@@ -1,7 +1,6 @@
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#@vpnclashfa - 42
-trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#@vpnclashfa - 41
-trojan://strong-secret-pass-777@103.231.73.181:4443?allowInsecure=1#@vpnclashfa - 40
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#@vpnclashfa - 39
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#@vpnclashfa - 41
+trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#@vpnclashfa - 40
+trojan://strong-secret-pass-777@103.231.73.181:4443?allowInsecure=1#@vpnclashfa - 39
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.251.69.71:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#@vpnclashfa - 38
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#@vpnclashfa - 37
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@38.180.215.249:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#@vpnclashfa - 36
