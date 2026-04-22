@@ -1,4 +1,3 @@
-ss://bm9uZTozZTk2ZWY3ZC04NjM3LTQyYzItYWM3My03NTE4MjE5NmU3NTU@212.192.215.229:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D3e96ef7d-8637-42c2-ac73-75182196e755%2F%3Fed%5C%3D2560%3Bmux%3D0%3Bhost%3Dmfvpn.fuchen.indevs.in%3Btls#@vpnclashfa - 44
 ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw@149.102.132.186:80#@vpnclashfa - 43
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#@vpnclashfa - 42
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#@vpnclashfa - 41
