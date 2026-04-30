@@ -30,4 +30,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN2VmNGYwMjlmMWFjMGFj@141.95.105.28:11201#@v
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#@vpnclashfa - 4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODNmNjE0MzQzNGNkNWM4@154.53.34.134:16541#@vpnclashfa - 3
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#@vpnclashfa - 2
-ss://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
+ss://3171ac5c-d746-4298-82e0-d46f2f5aa51f@www.shopify.com:80?encryption=auto&host=de.gfw.hidns.co&path=%2Fdanfeng&security=none&type=ws#@vpnclashfa - 1
