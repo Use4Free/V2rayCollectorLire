@@ -33,5 +33,5 @@ ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.68:30082?encryption=auto&sec
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@95.85.248.67:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.92.1.37:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@45.141.215.51:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@194.87.77.250:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
-ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.189:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
+ss://2437a36f-c8b4-45a7-9b19-d1d341f5979a@138.124.32.188:30082?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
