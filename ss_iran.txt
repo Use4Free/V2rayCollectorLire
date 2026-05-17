@@ -54,9 +54,9 @@ ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=webmode.yota.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 9
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 8
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=web.max.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 7
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 6
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 5
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 4
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 6
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 5
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 4
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=api-maps.yandex.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 3
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=api-maps.yandex.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 2
 ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=%3AOTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@31.130.131.214:30453#@vpnclashfa - 1
