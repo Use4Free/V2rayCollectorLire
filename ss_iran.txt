@@ -60,6 +60,6 @@ ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 6
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=ozon.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 5
 ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8a4CZTWQa78l9eM&security=none&type=ws#@vpnclashfa - 4
-ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=external-api.mediabilling.kinopoisk.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 3
+ss://44b7a388-21ca-4af0-a16b-01e9e6ef04e1@94.131.105.175:80?encryption=auto&host=api-maps.yandex.ru&path=%2FCm8kHyrwYLJ8NTQroLv&security=none&type=httpupgrade#@vpnclashfa - 3
 ss://0d9bd1bc-6d14-44f2-8bfa-dd6210d1b14f@104.168.1.102:8222?encryption=auto&security=none&type=ws#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@213.156.141.52:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
