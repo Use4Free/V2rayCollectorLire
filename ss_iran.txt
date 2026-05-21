@@ -1,4 +1,3 @@
-ss://e2923bc6-8204-4768-98ea-379d48ea8a7a@heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca:80?encryption=auto&host=heu83ujieiwoeu83j2ewjehuwehu8.dentiscan.ca&path=%2F1awNzxRSwKsdkPVKP0ZQqlHjt10sp&security=none&type=ws#@vpnclashfa - 60
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.9:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 59
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 58
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 57
