@@ -1,5 +1,6 @@
-trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome#@vpnclashfa - 139
-trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#@vpnclashfa - 138
+trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome#@vpnclashfa - 140
+trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1#@vpnclashfa - 139
+trojan://r137979f@162.159.153.212:2087?fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#@vpnclashfa - 138
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@vpnclashfa - 137
 trojan://humanity@95.38.165.189:40443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#@vpnclashfa - 136
 trojan://humanity@95.38.163.199:40443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#@vpnclashfa - 135
