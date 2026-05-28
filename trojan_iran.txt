@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@15.237.158.158:22222?allowInsecure=1&alpn=http%2F1.1&sni=trojan.burgerip.co.uk#@vpnclashfa - 102
 trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome#@vpnclashfa - 101
 trojan://r137979f@162.159.153.212:2087?fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#@vpnclashfa - 100
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#@vpnclashfa - 99
