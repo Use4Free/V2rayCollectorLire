@@ -1,6 +1,7 @@
-trojan://telegram-id-privatevpns@15.237.158.158:22222?allowInsecure=1&alpn=http%2F1.1&sni=trojan.burgerip.co.uk#@vpnclashfa - 70
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#@vpnclashfa - 69
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#@vpnclashfa - 68
+trojan://telegram-id-privatevpns@15.237.158.158:22222?allowInsecure=1&alpn=http%2F1.1&sni=trojan.burgerip.co.uk#@vpnclashfa - 71
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#@vpnclashfa - 70
+trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=1#@vpnclashfa - 69
+trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?fp=chrome#@vpnclashfa - 68
 trojan://humanity@www.multiplydose.com:443?path=%2F%2Fassignment&type=ws#@vpnclashfa - 67
 trojan://humanity@www.multiplydose.com:443?allowInsecure=1&fp=chrome&path=%2Fassignment&type=ws#@vpnclashfa - 66
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#@vpnclashfa - 65
