@@ -1,4 +1,5 @@
-trojan://ypa8jqVoqQ@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=ssss2.avaaal.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&sni=ssss2.avaaal.ir&type=ws#@vpnclashfa - 49
+trojan://ypa8jqVoqQ@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=ssss2.avaaal.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2FAvaal%2Fproduction%2Fsettings&sni=ssss2.avaaal.ir&type=ws#@vpnclashfa - 50
+trojan://strong-secret-pass-777@2.56.172.83:4443?allowInsecure=1&fp=chrome#@vpnclashfa - 49
 trojan://s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui@172.236.220.10:443?fp=chrome#@vpnclashfa - 48
 trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443#@vpnclashfa - 47
 trojan://mitivpn@188.114.97.6:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=cdn.linkman1.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&sni=cdn.linkman1.ir&type=ws#@vpnclashfa - 46
