@@ -1,6 +1,8 @@
-ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 73
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 72
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 71
+ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 75
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 74
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 73
+ss://f60ecc88-d704-489c-e3b9-082805317e7b@66.154.106.185:48060?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 72
+ss://f2ff4ae6-cf2d-4d15-9f0d-b6d9980df9aa@de.connfull.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 71
 ss://d4d715a6-0a2e-4304-df2f-d5efd85a5a5d@104.233.214.176:13581?encryption=auto&security=none&type=tcp#@vpnclashfa - 70
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 69
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#@vpnclashfa - 68
