@@ -1,7 +1,6 @@
-ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 76
-ss://d7a4643c-1b72-4199-b54d-810da8d0e657@it.connfull.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 75
-ss://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&security=none&type=tcp#@vpnclashfa - 74
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.37:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 73
+ss://fd169a0a-5c32-4f3e-9b6c-28dd35f2a5e5@node-de.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 75
+ss://d7a4643c-1b72-4199-b54d-810da8d0e657@it.connfull.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 74
+ss://d4603cc2-e0ee-4651-83f5-1db5b7168177@129.146.143.80:48111?encryption=auto&security=none&type=tcp#@vpnclashfa - 73
 ss://ac8bcf5e-bb58-4e8b-b4e4-5fdea010a6c6@51.254.133.152:80?encryption=auto&host=fr5.niekotin.de&path=%2Fvmess&security=none&type=ws#@vpnclashfa - 72
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 71
 ss://YWVzLTI1Ni1nY206YTc0MmJkODUtMGY5Ny00MmJkLTg5MWYtYWEwMGRiZDFhNDYx@84.200.91.158:443#@vpnclashfa - 70
