@@ -71,5 +71,5 @@ ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%
 ss://6c5f550d-d515-54fc-aedb-7b8a959ecf77@43.130.42.218:2089?encryption=auto&path=%2Ftelegram+%40rootface&security=none&type=ws#@vpnclashfa - 5
 ss://59e28f78-c31b-4613-9d9f-1e6732a31f46@51.195.235.71:2052?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 4
 ss://500e29aa-c40b-43e1-905c-e6e7ac4a5b83@fr.connfull.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 3
-ss://41a7089a-040b-4538-8b8d-010902405bde@140.238.2.250:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
+ss://2f4234f9-8f33-4c7f-952f-565ffa5f5fb7@node-fr.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 2
 ss://2022-blake3-aes-256-gcm:oD4yQh+d96KX8Q+9J3faGzq%2FmslgIGN153Ye9B8f5wQ=@[2a01:4f8:211:2312:1234:4321:c387:1]:443#@vpnclashfa - 1
