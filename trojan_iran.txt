@@ -1,7 +1,6 @@
-trojan://telegram-id-privatevpns@18.192.188.251:22222?allowInsecure=1#@vpnclashfa - 56
-trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#@vpnclashfa - 55
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#@vpnclashfa - 54
-trojan://ppmk@104.18.32.47:8443?alpn=http%2F1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#@vpnclashfa - 53
+trojan://telegram-id-privatevpns@18.192.188.251:22222?allowInsecure=1#@vpnclashfa - 55
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#@vpnclashfa - 54
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#@vpnclashfa - 53
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#@vpnclashfa - 52
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&sni=www.ssl.global.digi.my.mitivpn.xyz#@vpnclashfa - 51
 trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#@vpnclashfa - 50
@@ -49,8 +48,8 @@ trojan://SoftNetConnect@213.165.45.14:443?mode=auto&path=%2F&security=reality&pb
 trojan://SoftNetConnect@194.5.192.89:443?fp=&mode=auto&path=%2F&pbk=pzGahS_T6emOUchRxzUgeL-2CEg2cuJs0-AxYtaK-ic&security=reality&sid=d591&sni=www.yahoo.com&type=xhttp#@vpnclashfa - 8
 trojan://SoftNetConnect@167.233.105.87:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=nhOVbG_d8gvDrs6ayt-kdjwo2wITTujBH_hbDO5hZnE&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=7a66d2f9e8805c17#@vpnclashfa - 7
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?sni=de-1.hysteria.ltd#@vpnclashfa - 6
-trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.232.194.147#@vpnclashfa - 5
-trojan://Config0plus@104.16.75.127:443?path=%2Fid-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#@vpnclashfa - 4
+trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?allowInsecure=1&fp=chrome&sni=ch-2.bexum.fun#@vpnclashfa - 5
+trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.232.194.147#@vpnclashfa - 4
 trojan://A4u%5Ep%28_UR*F6@www.speedtest.net:443?path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=027.electrocellco-cf-027.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv#@vpnclashfa - 3
 trojan://86768774-70b2-4c15-80c3-02066fb1e3b6@104.21.39.202:443?host=zholli90.biggestqut.workers.dev&path=%2F152.32.181.246-44070&sni=zholli90.biggestqut.workers.dev&type=ws#@vpnclashfa - 2
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 1
