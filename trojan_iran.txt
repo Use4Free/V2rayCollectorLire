@@ -1,7 +1,6 @@
-trojan://telegram-id-privatevpns@18.192.188.251:22222?allowInsecure=1#@vpnclashfa - 53
-trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#@vpnclashfa - 52
-trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#@vpnclashfa - 51
-trojan://ppmk@104.18.32.47:8443?alpn=http%2F1.1&fp=chrome&host=flat-firefly-6022.rixewi3168.workers.dev&path=%2F&sni=flat-firefly-6022.rixewi3168.workers.dev&type=ws#@vpnclashfa - 50
+trojan://telegram-id-privatevpns@18.192.188.251:22222?allowInsecure=1#@vpnclashfa - 52
+trojan://rXyShM8Jni+5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443#@vpnclashfa - 51
+trojan://qDVh0NalwefxyZlHh3Ni2JSlhErcuC3Wiq@91.233.8.138:443?sni=www.homelywebs.click#@vpnclashfa - 50
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=sdasdfgv.global.ssl.fastly.top.mitivpn-a.site&fp=chrome&type=ws&sni=global.fastly.com.mitivpn-a.site#@vpnclashfa - 49
 trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&host=eee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&sni=www.ssl.global.digi.my.mitivpn.xyz#@vpnclashfa - 48
 trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?fp=chrome#@vpnclashfa - 47
