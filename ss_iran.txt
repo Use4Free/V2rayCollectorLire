@@ -68,9 +68,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#@vpnclashfa - 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#@vpnclashfa - 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:443#@vpnclashfa - 7
-ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 6
-ss://88553247-c1c8-4e80-9db6-56bff7efc33b@89.167.82.102:4443?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
-ss://3c05ef9e-6582-11f1-a6e5-1727059cff63@uk.vpnjantit.com:10000?encryption=auto&path=%2Fvpnjantit&security=none&type=ws#@vpnclashfa - 4
+ss://88553247-c1c8-4e80-9db6-56bff7efc33b@89.167.82.102:4443?encryption=auto&security=none&type=tcp#@vpnclashfa - 6
+ss://3c05ef9e-6582-11f1-a6e5-1727059cff63@uk.vpnjantit.com:10000?encryption=auto&path=%2Fvpnjantit&security=none&type=ws#@vpnclashfa - 5
+ss://2ee7eb26-8118-4d0a-a300-8d0edcfde6e5@65.109.221.245:33366?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://1e12e620-c8eb-477a-86d4-cb1d97c8e6ff@www.speedtest.net:8443?alpn=h2%2Chttp%2F1.1&encryption=auto&mode=auto&path=%2Fphp%2Fadmin%2Flog%2F%40v2box_v2%2F%40v2box_v2%2F%40v2box_v2%2F%40v2box_v2%3Fed%3D2048&security=tls&sni=gErtOw1.lOolOolOolOo.cOM&type=xhttp#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://01ccfa7a-8de7-451d-bd41-1957acaba15f@162.19.254.232:2087?encryption=auto&host=de5.taskflowhub.org&path=%2Frealtime&security=tls&sni=de5.taskflowhub.org&type=ws#@vpnclashfa - 1
