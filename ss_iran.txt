@@ -1,8 +1,6 @@
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 66
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 65
-ss://ca58b165-0f7d-49aa-9fae-a017e8a0f884@de5.taskflowhub.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 64
-ss://bb5ffdfa-ecc8-4bfa-951a-b0dededf8184@de5.taskflowhub.org:2087?encryption=auto&host=de5.taskflowhub.org&path=%2Frealtime&security=tls&sni=de5.taskflowhub.org&type=ws#@vpnclashfa - 63
-ss://b8e590a8-4870-414b-967b-d2f43d01305a@fr5.taskflowhub.org:2087?encryption=auto&host=fr5.taskflowhub.org&path=%2Frealtime&security=tls&sni=fr5.taskflowhub.org&type=ws#@vpnclashfa - 62
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.250:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 64
+ss://cd3dacbc-2b7b-4718-83ad-ab870f87e12e@153.121.73.175:49803?encryption=auto&security=none&type=tcp#@vpnclashfa - 63
+ss://bb5ffdfa-ecc8-4bfa-951a-b0dededf8184@de5.taskflowhub.org:2087?encryption=auto&host=de5.taskflowhub.org&path=%2Frealtime&security=tls&sni=de5.taskflowhub.org&type=ws#@vpnclashfa - 62
 ss://YWVzLTI1Ni1nY206YzFmZDBiMjktNmMxOC00MDQyLTg3YTItZjViZDc4NzhkYzBh@192.142.18.127:443#@vpnclashfa - 61
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#@vpnclashfa - 60
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.254.187:12000#@vpnclashfa - 59
@@ -61,6 +59,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:443#@vpnclashfa - 6
 ss://88553247-c1c8-4e80-9db6-56bff7efc33b@89.167.82.102:4443?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
 ss://48eabd37-500d-403f-8e8f-715d1e17bffd@89.167.82.102:8880?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
-ss://3c05ef9e-6582-11f1-a6e5-1727059cff63@uk.vpnjantit.com:10000?encryption=auto&path=%2Fvpnjantit&security=none&type=ws#@vpnclashfa - 3
-ss://2ee7eb26-8118-4d0a-a300-8d0edcfde6e5@65.109.221.245:33366?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
-ss://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
+ss://48eabd37-500d-403f-8e8f-715d1e17bffd@89.167.82.102:4443?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
+ss://3c05ef9e-6582-11f1-a6e5-1727059cff63@uk.vpnjantit.com:10000?encryption=auto&path=%2Fvpnjantit&security=none&type=ws#@vpnclashfa - 2
+ss://2ee7eb26-8118-4d0a-a300-8d0edcfde6e5@65.109.221.245:33366?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
