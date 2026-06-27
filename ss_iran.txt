@@ -1,5 +1,4 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
-ss://f0a2fbe5-29bf-468c-ddc1-b524552d1a23@107.173.27.219:6666?encryption=auto&path=%2Fyoutube&security=none&type=ws#@vpnclashfa - 98
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 98
 ss://d4d715a6-0a2e-4304-df2f-d5efd85a5a5d@104.233.214.176:13581?encryption=auto&security=none&type=tcp#@vpnclashfa - 97
 ss://bc82b8e0-026b-4b7e-8fa7-69977b6d9dc0@8.211.149.30:443?encryption=auto&host=polartime.link&path=%2Fws%2F&security=tls&sni=polartime.link&type=ws#@vpnclashfa - 96
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 95
@@ -94,6 +93,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YmFhNGVhZDIyZGIxZDdlOGZlYTA2M2I2YWVmY2M3Mw@159.69.21.145:1080#@vpnclashfa - 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#@vpnclashfa - 5
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a0NzOGgweHVTTmZObmdMMVNlRExUR1JBRVdld0RuVGovYXczdU1tRWJTVT06emlIVXFQeXhKL2F0Uk5ra0NmWFZBRS83SCtSbTlocGJkL0gyU1hYRFROND0@65.109.218.60:8880#@vpnclashfa - 4
-ss://41b73303-5622-4736-ffc1-b60abc1f2347@185.153.231.167:49946?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 3
-ss://2a2b08aa-c05e-494b-a5a6-8e63abcb9bbd@154.12.50.89:62051?encryption=auto&security=none&type=ws#@vpnclashfa - 2
-ss://2a2b08aa-c05e-494b-a5a6-8e63abcb9bbd@154.12.50.89:37215?encryption=auto&security=none&type=ws#@vpnclashfa - 1
+ss://89371dfc-2618-40d7-a558-693ff4f7f1eb@uk5.taskflowhub.org:2053?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 3
+ss://41b73303-5622-4736-ffc1-b60abc1f2347@185.153.231.167:49946?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 2
+ss://2a2b08aa-c05e-494b-a5a6-8e63abcb9bbd@154.12.50.89:62051?encryption=auto&security=none&type=ws#@vpnclashfa - 1
