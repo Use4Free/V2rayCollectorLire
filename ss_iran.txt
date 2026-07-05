@@ -72,8 +72,8 @@ ss://9855f1f0-a800-40d4-8b38-c7d3eb79302d@94.131.108.36:443?encryption=auto&path
 ss://8f9391ed-fede-4ee6-b7c2-89d0939545bd@57.131.35.243:443?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 8
 ss://66ff581f-98d0-43cc-cecb-a7232f411c6d@194.60.95.7:59525?encryption=auto&path=%2F66ff581f-98d0-43cc-cecb-a7232f411c6d&security=none&type=ws#@vpnclashfa - 7
 ss://3cd9077d-76f7-4104-bd82-eb6916b89d43@c87s5.portablesubmarines.com:18339?encryption=auto&security=none&type=tcp#@vpnclashfa - 6
-ss://3c61ea53-a550-4252-8211-956f9f7dc2d0@62.60.151.41:57865?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 5
-ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#@vpnclashfa - 4
-ss://0cdfc4e0-67aa-40a9-8749-387bf9e11fd9@65.109.186.44:433?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
+ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.150.100.115:27755#@vpnclashfa - 5
+ss://0cdfc4e0-67aa-40a9-8749-387bf9e11fd9@65.109.186.44:433?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
+ss://0bf1cead-bdd4-4692-b3d4-6866ccb9f37a@hl112.cowjump.site:443?encryption=auto&host=hl112.cowjump.site&path=%2F&security=tls&sni=hl112.cowjump.site&type=ws#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
