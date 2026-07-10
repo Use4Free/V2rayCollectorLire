@@ -1,3 +1,4 @@
+trojan://zBfIAxaXtz@151.101.34.144:443?mode=packet-up&path=%2Fdb&security=tls&alpn=h2%2Chttp%2F1.1&host=edgezvx.global.ssl.fastly.net&fp=firefox&type=xhttp&sni=global.fastly.com#@vpnclashfa - 101
 trojan://vbp0zrblf8u4w0n2@104.17.108.21:2083?alpn=h2%2Chttp%2F1.1&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22xPaddingObfsMode%22%3Atrue%7D&fp=chrome&mode=auto&path=%2Ftanha&sni=Shopfrance.mroza.ir&type=xhttp#@vpnclashfa - 100
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome#@vpnclashfa - 99
 trojan://nsKBtW4V7LPHG5.iSySU8_pNM88Gkxz7eE@64.176.74.241:443#@vpnclashfa - 98
