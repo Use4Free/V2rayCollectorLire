@@ -1,9 +1,8 @@
-ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 79
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 78
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 77
-ss://f8975871-a7a0-4906-8835-a23c1258ca1e@69.84.182.49:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 76
-ss://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 75
-ss://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 74
+ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 78
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 77
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 76
+ss://f8975871-a7a0-4906-8835-a23c1258ca1e@69.84.182.49:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 75
+ss://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 74
 ss://dbc464ad-e674-4078-a983-265184a487f5@193.36.84.146:6281?encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 73
 ss://d9c36b55-447a-4484-882b-d799f5301681@phoenix0202.zgjok.com:443?encryption=auto&host=phoenix0202.zgjok.com&path=%2Fd9c36b55-447a-4484-882b-d799f5301681&security=tls&sni=phoenix0202.zgjok.com&type=ws#@vpnclashfa - 72
 ss://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 71
