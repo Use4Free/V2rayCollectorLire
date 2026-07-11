@@ -69,7 +69,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VTNwc1Iwc1F1UXhXWG9CSEI0S1REM1lhY3dRd1MyMVh2U0V5OQ@45.129.96.62:41348#@vpnclashfa - 7
 ss://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s801.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#@vpnclashfa - 6
 ss://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s5.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
-ss://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s3.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
+ss://4bd2af9a-67a3-4e1a-8eef-c443ec86e80b@c722s4.portablesubmarines.com:16025?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 3
 ss://383737a2-a196-44b6-a9ac-4f8cc23c9637@107.173.7.186:2095?encryption=auto&path=383737a2-a196-44b6-a9ac-4f8cc23c9637-vm&security=none&type=ws#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
