@@ -1,4 +1,3 @@
-ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 75
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 74
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 73
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 72
