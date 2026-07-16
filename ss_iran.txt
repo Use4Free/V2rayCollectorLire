@@ -1,11 +1,8 @@
-ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 99
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 98
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 97
-ss://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 96
-ss://d1b0c103-a7ff-4bd6-887d-a73d6ebf1f50@94.103.167.116:80?encryption=auto&security=none&type=tcp#@vpnclashfa - 95
-ss://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 94
-ss://b2fcc775-1579-4b4b-9fe8-f8dde771c861@155.103.71.163:2026?encryption=auto&security=none&type=tcp#@vpnclashfa - 93
-ss://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 92
+ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 96
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 95
+ss://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 94
+ss://d1b0c103-a7ff-4bd6-887d-a73d6ebf1f50@94.103.167.116:80?encryption=auto&security=none&type=tcp#@vpnclashfa - 93
+ss://b2fcc775-1579-4b4b-9fe8-f8dde771c861@155.103.71.163:2026?encryption=auto&security=none&type=tcp#@vpnclashfa - 92
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 91
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#@vpnclashfa - 90
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.133.23.45:60129#@vpnclashfa - 89
