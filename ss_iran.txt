@@ -95,7 +95,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowQXNZd3VjcTJPcjkxV1hX@4.168.201.246:443#@vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@vpnclashfa - 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YVBVOWNDbmc3RkZuWXdQRjk4ckxJakRvM1pCemxxcw@62.238.41.102:1080#@vpnclashfa - 6
 ss://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?alpn=http%2F1.1&encryption=auto&host=ger.wafer.fun&path=%2FYgpuN95HyS2aFuy7hnbpM3&security=tls&sni=ger.wafer.fun&type=httpupgrade#@vpnclashfa - 5
-ss://3cd9077d-76f7-4104-bd82-eb6916b89d43@c87s5.portablesubmarines.com:18339?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
+ss://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.95.190:17367?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
 ss://399f7f1b-0f5e-43a1-b0b5-6f255367d778@136.244.92.167:48824?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@85.90.217.42:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@5.188.190.252:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
