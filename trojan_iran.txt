@@ -1,5 +1,6 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#@vpnclashfa - 123
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1&fp=chrome&sni=api-yandex.maps.ru#@vpnclashfa - 122
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#@vpnclashfa - 124
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1&fp=chrome&sni=api-yandex.maps.ru#@vpnclashfa - 123
+trojan://ncnr1qxfkf4j1pg1@de-d-178105.homelanderwins.com:44600?path=%2Ft.me%2Fdefyxvpn_fa&security=none&host=P30day.ir&type=ws#@vpnclashfa - 122
 trojan://kkzh2prsyr2ik47as615@64.94.95.115:57142?allowInsecure=1&sni=static.rutube.ru#@vpnclashfa - 121
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&type=ws#@vpnclashfa - 120
 trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#@vpnclashfa - 119
