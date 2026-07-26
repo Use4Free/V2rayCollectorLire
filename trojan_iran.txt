@@ -1,6 +1,5 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#@vpnclashfa - 118
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1&fp=chrome&sni=api-yandex.maps.ru#@vpnclashfa - 117
-trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&type=ws#@vpnclashfa - 116
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?allowInsecure=1&fp=chrome&sni=www.vk.com#@vpnclashfa - 117
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1&fp=chrome&sni=api-yandex.maps.ru#@vpnclashfa - 116
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&type=ws#@vpnclashfa - 115
 trojan://humanity@www.ignitelimit.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.ignitelimit.com#@vpnclashfa - 114
 trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&type=ws#@vpnclashfa - 113
