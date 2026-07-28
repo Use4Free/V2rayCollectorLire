@@ -1,6 +1,7 @@
-ss://cd80d0a4-a8ef-4492-b956-da82a6cecaf9@[2001:bc8:32d7:225::3]:55009?encryption=auto&path=%2F0zNW56sF&security=none&type=ws#@vpnclashfa - 130
-ss://ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:2086?encryption=auto&host=www.bing.com&path=ba58ca0c-0411-444e-80f7-e361ce49012d-vm&security=none&type=ws#@vpnclashfa - 129
-ss://b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:8880?encryption=auto&host=www.bing.com&path=b7479b73-8cea-4a82-97e8-bacf9bd86605-vm&security=none&type=ws#@vpnclashfa - 128
+ss://cd80d0a4-a8ef-4492-b956-da82a6cecaf9@[2001:bc8:32d7:225::3]:55009?encryption=auto&path=%2F0zNW56sF&security=none&type=ws#@vpnclashfa - 131
+ss://ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:2086?encryption=auto&host=www.bing.com&path=ba58ca0c-0411-444e-80f7-e361ce49012d-vm&security=none&type=ws#@vpnclashfa - 130
+ss://b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:8880?encryption=auto&host=www.bing.com&path=b7479b73-8cea-4a82-97e8-bacf9bd86605-vm&security=none&type=ws#@vpnclashfa - 129
+ss://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 128
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 127
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#@vpnclashfa - 126
 ss://YWVzLTI1Ni1nY206ZmJhZjMzYmNmZmU1M2NmOQ@195.58.48.19:20910#@vpnclashfa - 125
