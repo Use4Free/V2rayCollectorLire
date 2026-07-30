@@ -1,10 +1,9 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 143
-ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 142
-ss://f2c67cae-c09d-4739-947d-f5302d87a3c0@47.86.167.194:800?encryption=auto&headerType=http&host=sjskendn.dingtalk.com&path=%2Fx&security=none&type=tcp#@vpnclashfa - 141
-ss://ed81c339-eca0-463a-c671-fce729a683b3@dsl081-033-205.lax1.dsl.speakeasy.net:24548?encryption=auto&security=none&type=tcp#@vpnclashfa - 140
-ss://d9865d63-d95c-454b-ba07-8e88b838a801@129.226.157.220:59121?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 139
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 138
-ss://cd80d0a4-a8ef-4492-b956-da82a6cecaf9@[2001:bc8:32d7:225::3]:55009?encryption=auto&path=%2F0zNW56sF&security=none&type=ws#@vpnclashfa - 137
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 142
+ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 141
+ss://f2c67cae-c09d-4739-947d-f5302d87a3c0@47.86.167.194:800?encryption=auto&headerType=http&host=sjskendn.dingtalk.com&path=%2Fx&security=none&type=tcp#@vpnclashfa - 140
+ss://ed81c339-eca0-463a-c671-fce729a683b3@dsl081-033-205.lax1.dsl.speakeasy.net:24548?encryption=auto&security=none&type=tcp#@vpnclashfa - 139
+ss://d9865d63-d95c-454b-ba07-8e88b838a801@129.226.157.220:59121?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 138
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 137
 ss://ba58ca0c-0411-444e-80f7-e361ce49012d@85.113.71.85:2086?encryption=auto&host=www.bing.com&path=ba58ca0c-0411-444e-80f7-e361ce49012d-vm&security=none&type=ws#@vpnclashfa - 136
 ss://b7479b73-8cea-4a82-97e8-bacf9bd86605@154.17.238.183:8880?encryption=auto&host=www.bing.com&path=b7479b73-8cea-4a82-97e8-bacf9bd86605-vm&security=none&type=ws#@vpnclashfa - 135
 ss://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 134
