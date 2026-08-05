@@ -1,6 +1,6 @@
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 101
 ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 100
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
+ss://e02c67a8-d769-4d73-833a-ab6acdb86e6e@107.172.75.141:10086?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
 ss://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 98
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 97
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#@vpnclashfa - 96
@@ -94,8 +94,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@vpnclashfa - 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg00129437x.cybervena.com:50099#@vpnclashfa - 8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#@vpnclashfa - 7
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 6
-ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@vpnclashfa - 5
-ss://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 4
-ss://40b25dc2-8e1a-4889-b334-e3376ab3d865@node-uk.connectsuite.org:2052?encryption=auto&headerType=http&host=node-uk.connectsuite.org&path=%2F&security=none&type=tcp#@vpnclashfa - 3
+ss://6733c357-ba11-4e9f-f00f-7d87f2776ff9@140.83.51.161:25686?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 5
+ss://40b25dc2-8e1a-4889-b334-e3376ab3d865@node-uk.connectsuite.org:2052?encryption=auto&headerType=http&host=node-uk.connectsuite.org&path=%2F&security=none&type=tcp#@vpnclashfa - 4
+ss://0e288730-2200-4578-8e70-bc2b562bef7f@140.235.37.128:32203?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 3
 ss://04621bae-ab36-11ec-b909-0242ac120002@67.220.72.237:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
