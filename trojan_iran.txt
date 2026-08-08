@@ -1,3 +1,4 @@
+trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261?allowInsecure=1&fp=chrome&sni=speedtest.tinkoff.ru#@vpnclashfa - 80
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#@vpnclashfa - 79
 trojan://y3b03zx3tznhyo538p4c@86.106.84.195:53261/?type=tcp&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=android#@vpnclashfa - 78
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=chrome#@vpnclashfa - 77
