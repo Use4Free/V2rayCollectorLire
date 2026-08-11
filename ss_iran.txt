@@ -1,5 +1,4 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 63
-ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 62
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 62
 ss://a25cbf11-2908-4a1b-a3a8-9a571777dca3@57.129.132.223:80?encryption=auto&host=google.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 61
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 60
 ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA%3D%3D@it2.levikogjgfdd.ir:10901#@vpnclashfa - 59
