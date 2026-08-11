@@ -83,5 +83,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2dG0wa21iZG56UzFYb0xD@sah1.levikogjgfdd.ir:443#@vpnclashfa - 5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0WG0xclVXWG5TcFRLdnZG@20.234.89.202:443#@vpnclashfa - 4
 ss://4ae81411-9337-4cac-a612-f5b1650c7627@65.109.208.236:40873?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
-ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 2
+ss://04621bae-ab36-11ec-b909-0242ac120002@216.106.183.35:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=%2Fvideo%2Fo2nwt7%2Fr0r2dmbb.m3u8&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 1
