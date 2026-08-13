@@ -1,6 +1,5 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 101
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 100
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 100
+ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
 ss://ceeaee0b-89af-40b1-aa14-577cbde03a89@132.145.200.43:2054?encryption=auto&path=%2Fp&security=none&type=ws#@vpnclashfa - 98
 ss://b65a2d69-5634-42a2-e4be-54e8a6176900@165.140.216.142:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 97
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@vpnclashfa - 96
