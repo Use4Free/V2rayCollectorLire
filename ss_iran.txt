@@ -1,3 +1,4 @@
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 102
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 101
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 100
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 99
