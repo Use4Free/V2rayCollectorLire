@@ -87,10 +87,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@93.123.13.7:25783#@vpn
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&path=%2Fdevm&security=tls&type=ws#@vpnclashfa - 15
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 14
 ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 13
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 12
-ss://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&security=none&type=tcp#@vpnclashfa - 11
-ss://3a966d20-7b9d-48cc-ba2c-8d38161b6d3a@[2001:bc8:32d7:1a9::2]:23388?encryption=auto&host=2001%3Abc8%3A32d7%3A1a9%3A%3A2&path=%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang&security=none&type=ws#@vpnclashfa - 10
-ss://260270e9-c25c-491a-8777-ea4e5173d49c@neo.novaro.ir:2087?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 9
+ss://8c209515-6de9-4890-ad69-738dc52a8732@91.107.139.186:15124?encryption=auto&security=none&type=tcp#@vpnclashfa - 12
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 11
+ss://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&security=none&type=tcp#@vpnclashfa - 10
+ss://3a966d20-7b9d-48cc-ba2c-8d38161b6d3a@[2001:bc8:32d7:1a9::2]:23388?encryption=auto&host=2001%3Abc8%3A32d7%3A1a9%3A%3A2&path=%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang&security=none&type=ws#@vpnclashfa - 9
 ss://2022-blake3-chacha20-poly1305:YyppYr+19SFyy4WAU2OmSlq+NwKjR+L0oV2CCJ6rMAM=@152.70.53.76:45819#@vpnclashfa - 8
 ss://2022-blake3-chacha20-poly1305:ChsbgW3Or5iKoWxNZQyTSxGx3KIKHjOD+w1t9%2FMbeeA=@141.148.234.216:45819#@vpnclashfa - 7
 ss://2022-blake3-chacha20-poly1305:5CkaY%2FEgA106Ec%2FceWI2A4I7BXIgbDUJ6hRnDiCWX60=@134.65.62.195:61312#@vpnclashfa - 6
