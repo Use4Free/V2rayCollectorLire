@@ -1,3 +1,4 @@
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 90
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=aes-128-gcm&security=none&type=tcp#@vpnclashfa - 89
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 88
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@169.197.142.22:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 87
@@ -84,6 +85,6 @@ ss://2022-blake3-chacha20-poly1305:YyppYr+19SFyy4WAU2OmSlq+NwKjR+L0oV2CCJ6rMAM=@
 ss://2022-blake3-chacha20-poly1305:ChsbgW3Or5iKoWxNZQyTSxGx3KIKHjOD+w1t9%2FMbeeA=@141.148.234.216:45819#@vpnclashfa - 6
 ss://2022-blake3-chacha20-poly1305:5CkaY%2FEgA106Ec%2FceWI2A4I7BXIgbDUJ6hRnDiCWX60=@134.65.62.195:61312#@vpnclashfa - 5
 ss://2022-blake3-aes-256-gcm:mkKfxndCZ9c3YIkAAmANrtfI%2FmlGJwwV9%2FGdVTYgW3M=%3AJazxiYc3Mc5tLn%2FTe3T59W6Zw4Z%2FBPuepQ0VlVD%2FcZ8=@193.124.203.144:443#@vpnclashfa - 4
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&path=rush-72frf.meeopp.site&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 3
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=%2Fvideo%2Fo2nwt7%2Fr0r2dmbb.m3u8&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 2
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=%2F&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 1
+ss://04621bae-ab36-11ec-b909-0242ac120002@216.106.185.141:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
+ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&path=rush-72frf.meeopp.site&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 2
+ss://03fcc618-b93d-6796-6aed-8a38c975d581@rush-72frf.meeopp.site:443?encryption=auto&host=rush-72frf.meeopp.site&path=%2Fvideo%2Fo2nwt7%2Fr0r2dmbb.m3u8&security=tls&sni=rush-72frf.meeopp.site&type=ws#@vpnclashfa - 1
