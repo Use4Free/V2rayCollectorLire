@@ -84,11 +84,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#@vpnclas
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@vpnclashfa - 20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@vpnclashfa - 19
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y211dnphOWd5ZXR4MHo4@93.123.13.7:25783#@vpnclashfa - 18
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 17
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 16
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 15
-ss://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&security=none&type=tcp#@vpnclashfa - 14
-ss://260270e9-c25c-491a-8777-ea4e5173d49c@neo.novaro.ir:2087?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@vpnclashfa - 13
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&path=%2Fdevm&security=tls&type=ws#@vpnclashfa - 17
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 16
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 15
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 14
+ss://48422300-458f-4dbb-b0f5-96f45450ab9f@178.83.45.29:38998?encryption=auto&security=none&type=tcp#@vpnclashfa - 13
 ss://2022-blake3-chacha20-poly1305:wh%2FmzP9iT6c54QgTLig1SPpUQ0j2kv9x6Fm8CQF7zFo=@130.61.102.33:59924#@vpnclashfa - 12
 ss://2022-blake3-chacha20-poly1305:sC1RiQOK5Ts5zgUYDwB%2FAGFbqjpytI0%2FAczgkgCCnew=@129.151.77.35:61312#@vpnclashfa - 11
 ss://2022-blake3-chacha20-poly1305:fr5M3Mv%2F8HIcozWHJCfI8SeuOYixEodurkiYtFmanP8=@129.151.66.31:61312#@vpnclashfa - 10
