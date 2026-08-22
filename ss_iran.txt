@@ -77,8 +77,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#@vpnclashfa - 25
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnclashfa - 24
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#@vpnclashfa - 23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@vpnclashfa - 22
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 21
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@104.105.18.214:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 20
+ss://9e5c6ebf-35f9-49a3-9f12-cba2b7cdbccb@43.228.126.187:47630?encryption=auto&security=none&type=tcp#@vpnclashfa - 21
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@deapp.jisuyun.top:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 20
 ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@vpnclashfa - 19
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 18
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 17
