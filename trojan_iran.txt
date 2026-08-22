@@ -1,7 +1,6 @@
-trojan://xth1trWxty3u5JGt1spEVVJ0M1%2FVW%2FSK@vip-ca-1.hkd4fwmg.xyz:51992?allowInsecure=1&fp=chrome#@vpnclashfa - 143
-trojan://wu2wei2yi1@93.179.103.129:8443?allowInsecure=1&sni=ray.5stock.cn#@vpnclashfa - 142
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&fp=chrome#@vpnclashfa - 141
-trojan://kkzh2prsyr2ik47as615@64.94.95.114:57142?allowInsecure=1&fp=chrome#@vpnclashfa - 140
+trojan://xth1trWxty3u5JGt1spEVVJ0M1%2FVW%2FSK@vip-ca-1.hkd4fwmg.xyz:51992?allowInsecure=1&fp=chrome#@vpnclashfa - 142
+trojan://wu2wei2yi1@93.179.103.129:8443?allowInsecure=1&sni=ray.5stock.cn#@vpnclashfa - 141
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?allowInsecure=1&fp=chrome#@vpnclashfa - 140
 trojan://humanity@212.183.88.136:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 139
 trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 138
 trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 137
