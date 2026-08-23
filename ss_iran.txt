@@ -1,3 +1,4 @@
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 117
 ss://ebca559c-a4a1-4062-9453-6412d8ff5255@216.128.176.166:28809?encryption=auto&path=%2Febca559c-a4a1-4062-9453-6412d8ff5255&security=none&type=ws#@vpnclashfa - 116
 ss://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 115
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 114
