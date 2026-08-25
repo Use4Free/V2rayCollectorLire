@@ -99,9 +99,9 @@ ss://9e5c6ebf-35f9-49a3-9f12-cba2b7cdbccb@43.228.126.187:47630?encryption=auto&s
 ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@vpnclashfa - 28
 ss://845e6b08-2919-4290-ade0-5dc7dcea59ca@47.244.120.197:44867?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 27
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 26
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 25
-ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 24
-ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 23
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 25
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 24
+ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 23
 ss://2022-blake3-chacha20-poly1305:z2Jh23bumSdistaAEcyEZiFiqEgmQa8jZyatjn7sn98=@130.61.32.138:59924#@vpnclashfa - 22
 ss://2022-blake3-chacha20-poly1305:wh%2FmzP9iT6c54QgTLig1SPpUQ0j2kv9x6Fm8CQF7zFo=@130.61.102.33:59924#@vpnclashfa - 21
 ss://2022-blake3-chacha20-poly1305:sPH+tlbdXt4j6PJi6sUMuUq3fa6TT5375pmPak%2FbQds=@129.146.221.27:50356#@vpnclashfa - 20
