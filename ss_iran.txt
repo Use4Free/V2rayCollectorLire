@@ -108,8 +108,8 @@ ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&s
 ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@newrelax.relaxedboy.online:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 26
 ss://845e6b08-2919-4290-ade0-5dc7dcea59ca@47.244.120.197:44867?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 25
 ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?encryption=auto&security=tls&type=tcp#@vpnclashfa - 24
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@node-uk.connectsuite.org:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 23
-ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 22
+ss://72f2cbe4-2874-45b7-b6aa-b93077c10c72@51.38.71.147:2053?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=node-uk.connectsuite.org&type=tcp#@vpnclashfa - 23
+ss://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 22
 ss://3a966d20-7b9d-48cc-ba2c-8d38161b6d3a@62.210.127.120:23388?encryption=auto&host=engage.cloudflareclient.com&path=%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang&security=none&type=ws#@vpnclashfa - 21
 ss://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#@vpnclashfa - 20
 ss://2022-blake3-chacha20-poly1305:z2Jh23bumSdistaAEcyEZiFiqEgmQa8jZyatjn7sn98=@130.61.32.138:59924#@vpnclashfa - 19
