@@ -98,8 +98,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#@vpnclashfa - 34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ%3D@36.224.174.236:50099#@vpnclashfa - 33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZDc5OTA2ZC04OWFiLTQzMGItYWNiYy0zMzI3NTY4YTViZTM@140.238.175.124:33345#@vpnclashfa - 32
-ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@172.238.96.215:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 31
-ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@vpnclashfa - 30
+ss://9e5c6ebf-35f9-49a3-9f12-cba2b7cdbccb@43.228.126.187:47630?encryption=auto&security=none&type=tcp#@vpnclashfa - 31
+ss://9a1a05d9-69be-45d3-e326-c6621edf7b31@172.238.96.215:2053?encryption=auto&host=deapp.jisuyun.top&path=%2Fdevm&security=tls&sni=deapp.jisuyun.top&type=ws#@vpnclashfa - 30
 ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@newrelax.relaxedboy.online:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 29
 ss://8e9687fc-a3a7-414a-8676-8e2136797cfe@94.156.179.138:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 28
 ss://845e6b08-2919-4290-ade0-5dc7dcea59ca@47.244.120.197:44867?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#@vpnclashfa - 27
