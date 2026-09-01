@@ -2,8 +2,8 @@ ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.95.3:18000?encryption=auto&secu
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 96
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 95
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 94
-ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 93
-ss://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#@vpnclashfa - 92
+ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 93
+ss://f836c736-87fc-4fde-aabc-00857ecdff3e@129.146.77.248:39495?encryption=auto&host=129.146.77.248&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 92
 ss://d9c919c2-872e-429d-a680-1e6c6bfe681b@65.109.211.136:33120?encryption=auto&security=none&type=tcp#@vpnclashfa - 91
 ss://d9865d63-d95c-454b-ba07-8e88b838a801@129.226.157.220:59121?encryption=auto&headerType=http&path=%2F&security=none&type=tcp#@vpnclashfa - 90
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 89
