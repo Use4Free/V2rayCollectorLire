@@ -1,8 +1,9 @@
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&sni=vps.tropicalhosting.net#@vpnclashfa - 42
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#@vpnclashfa - 41
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#@vpnclashfa - 40
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#@vpnclashfa - 39
-trojan://humanity@www.speedtest.net:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 38
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&sni=vps.tropicalhosting.net#@vpnclashfa - 43
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#@vpnclashfa - 42
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#@vpnclashfa - 41
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#@vpnclashfa - 40
+trojan://humanity@www.speedtest.net:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 39
+trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 38
 trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 37
 trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 36
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#@vpnclashfa - 35
