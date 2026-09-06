@@ -1,10 +1,9 @@
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&fp=chrome&sni=vps.tropicalhosting.net#@vpnclashfa - 42
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&sni=vps.tropicalhosting.net#@vpnclashfa - 41
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#@vpnclashfa - 40
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#@vpnclashfa - 39
-trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&fp=chrome#@vpnclashfa - 38
-trojan://humanity@www.speedtest.net:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 37
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 36
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&fp=chrome&sni=vps.tropicalhosting.net#@vpnclashfa - 41
+trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http%2F1.1&sni=vps.tropicalhosting.net#@vpnclashfa - 40
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#@vpnclashfa - 39
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#@vpnclashfa - 38
+trojan://kkzh2prsyr2ik47as615@64.94.95.117:57142?allowInsecure=1&fp=chrome#@vpnclashfa - 37
+trojan://humanity@www.speedtest.net:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 36
 trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 35
 trojan://humanity@213.182.199.137:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&fp=chrome&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 34
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#@vpnclashfa - 33
