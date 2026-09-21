@@ -1,4 +1,5 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 31
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 32
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 31
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 30
 ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@94.249.187.46:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 29
 ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@91.107.146.97:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 28
