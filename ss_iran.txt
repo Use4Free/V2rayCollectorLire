@@ -1,6 +1,8 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 25
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 24
-ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@94.249.187.46:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 23
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 27
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@84.17.41.2:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 26
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 25
+ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@94.249.187.46:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 24
+ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@91.107.146.97:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 23
 ss://f6361af8-bb8f-4609-bf5d-3fc0f688f47b@139.28.240.68:2086?encryption=auto&security=none&type=tcp#@vpnclashfa - 22
 ss://e8758bf0-c234-4809-89f7-25fd868316d0@31.77.8.97:110?encryption=auto&security=none&type=tcp#@vpnclashfa - 21
 ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&security=none&type=tcp#@vpnclashfa - 20
