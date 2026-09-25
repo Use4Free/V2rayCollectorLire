@@ -18,7 +18,7 @@ trojan://humanity@8.47.69.0:443?host=www.pleadcourt.org&path=%2Fassignment&sni=w
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#@vpnclashfa - 47
 trojan://humanity@8.47.69.0:443?alpn=http%2F1.1&fp=chrome&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#@vpnclashfa - 46
 trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 45
-trojan://humanity@45.205.0.6:443?alpn=http%2F1.1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 44
+trojan://humanity@45.130.125.160:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 44
 trojan://humanity@188.114.97.6:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#@vpnclashfa - 43
 trojan://humanity@185.255.179.166:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 42
 trojan://humanity@165.215.250.14:443?host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 41
@@ -28,7 +28,7 @@ trojan://d5bee0afdbc500b8cda02d80@130.78.191.108:2053?allowInsecure=1&fp=chrome#
 trojan://TsX0XJKMa2h$CbKr0k@idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&path=%2Ftr%2F60XnEWrAQkStT4oTTwmkao9a4sc&sni=iDB8onmvBnTuyt5T7T6CejfW8vlRb.PagES.DeV&type=ws#@vpnclashfa - 37
 trojan://TsX0XJKMa2h$CbKr0k@188.114.97.9:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&path=%2Ftr%2FmPwnfIHtx0vldKy0A5AGJTZB&sni=IDB8onmVBntUyt5T7T6cEjFW8VLRB.PAGES.DeV&type=ws#@vpnclashfa - 36
 trojan://TsX0XJKMa2h$CbKr0k@188.114.96.9:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&path=%2Ftr%2FSW8uIUDDGS2sKyM3X5qAV&sni=IdB8ONMVbntuYT5t7t6cEJfw8vLrb.paGEs.DeV&type=ws#@vpnclashfa - 35
-trojan://Telegram_healer_config@188.114.96.3:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&path=%2Ftr%2F3F3fUAGJks9doKvjt8AREH4QR&sni=cdtfrgmtcsbaarmz-9owpz7g4.f9w96pzky6un-covzx6b-hzlm80woj2.workers.dev&type=ws#@vpnclashfa - 34
+trojan://Tg3RnK7Xp8B1@45.32.157.84:443?allowInsecure=1&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#@vpnclashfa - 34
 trojan://Siw3_iSte%40ulOTO,-@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=4zgccbcb10pqyibnwmm4nvznj4.royaehman5.workers.dev&path=%2Ftr%2FJxEfewo91O5PbO3TqlIpmg43u&sni=4ZGCCbcB10pQYiBnWMm4nvZNj4.Royaehman5.WorKErs.DEV&type=ws#@vpnclashfa - 33
 trojan://MiTIVPN@199.232.78.160:443?alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=ssl.fastly.com&type=ws#@vpnclashfa - 32
 trojan://MiTIVPN@199.232.78.160:443?alpn=http%2F1.1&fp=firefox&host=mitivpn---ss--s---mitivpn-44e.global.ssl.fastly.net&sni=ssl.fastly.com&type=ws#@vpnclashfa - 31
