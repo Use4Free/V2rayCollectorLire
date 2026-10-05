@@ -1,3 +1,5 @@
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 48
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.91.107.49:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 47
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 46
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 45
 ss://e2733dbc-1bc6-4835-b90a-447806f9efcd@158.160.211.200:11556?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 44
@@ -14,11 +16,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFFobUJMSnpoS28ySkhS@20.234.96.89:443#@vpnc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnclashfa - 33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUTFVVVpoZE1KMVhpNFZfMzQ4djJn@p1tun1.greewebservices.ir:2050#@vpnclashfa - 32
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206elorazhVd2RUUTlaVG54RW9kVE4yWUk2S3JGS0VBY0JXZ0NiTFpJVlVURT06TGJXRWRGeWpLY3ZaY3Y5YWd5R3R0U24wSE5hcCtlY2Y1MC9VcmxHTUJDUT0%3D@nl-irancell3.xelfona.ir:49548#@vpnclashfa - 31
-ss://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@vpnclashfa - 30
-ss://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#@vpnclashfa - 29
-ss://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 28
-ss://479526cd-5011-43cf-a788-504da95e07c2@google.whatsapp.snapp.torob.basalam.fortresshost.ir.:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 27
-ss://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23326?encryption=auto&security=none&type=tcp#@vpnclashfa - 26
+ss://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#@vpnclashfa - 30
+ss://567f4be5-12ab-42e1-b8d9-db6fd1fdd31c@38.107.234.57:80?encryption=auto&host=3h-kazakhstan1.09vpn.com&path=%2Fvmess%2F&security=none&type=ws#@vpnclashfa - 29
+ss://479526cd-5011-43cf-a788-504da95e07c2@google.whatsapp.snapp.torob.basalam.fortresshost.ir.:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.fortresshost.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 28
+ss://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23326?encryption=auto&security=none&type=tcp#@vpnclashfa - 27
+ss://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23325?encryption=auto&security=none&type=tcp#@vpnclashfa - 26
 ss://3dff544a-379e-41f9-95d9-4b95a8e4026e@31.76.11.83:23226?encryption=auto&security=none&type=tcp#@vpnclashfa - 25
 ss://3a966d20-7b9d-48cc-ba2c-8d38161b6d3a@[2001:bc8:32d7:1a9::2]:18901?encryption=auto&path=%2Fgithub.com%2FAlvin9999-newpac%2Ffanqiang&security=none&type=ws#@vpnclashfa - 24
 ss://04621bae-ab36-11ec-b909-0242ac120002@89.41.172.85:22324?encryption=auto&security=none&type=tcp#@vpnclashfa - 23
