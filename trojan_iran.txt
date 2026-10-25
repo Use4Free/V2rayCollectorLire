@@ -22,9 +22,9 @@ trojan://humanity@212.183.88.136:443?path=%2F%252Fassignment&security=tls&host=w
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 45
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 44
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2F%252Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 43
-trojan://humanity@188.42.145.180:443?fp=chrome&host=www.volumeroot.com&path=%2Fassignment&sni=www.volumeroot.com&type=ws#@vpnclashfa - 42
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#@vpnclashfa - 41
-trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 40
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumeroot.com&fp=chrome&type=ws&sni=www.volumeroot.com#@vpnclashfa - 42
+trojan://humanity@185.220.100.168:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 41
+trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 40
 trojan://humanity@165.215.250.14:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 39
 trojan://humanity@141.193.213.172:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 38
 trojan://humanity@141.101.115.104:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 37
