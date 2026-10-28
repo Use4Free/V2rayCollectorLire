@@ -1,6 +1,7 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 34
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 33
-ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?encryption=auto&security=tls&type=tcp#@vpnclashfa - 32
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@ww11.levikogjgfdd.ir:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 35
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 34
+ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?encryption=auto&security=tls&type=tcp#@vpnclashfa - 33
+ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 32
 ss://b3a11068-1a7e-4643-85de-7c82cce46943@de-d21e56c13c.shamanapp.online:33744?encryption=auto&host=de-d21e56c13c.shamanapp.online&path=%2FShamanVMESS2026&security=none&type=ws#@vpnclashfa - 31
 ss://b3a11068-1a7e-4643-85de-7c82cce46943@217.60.183.95:33744?encryption=auto&path=%2FShamanVMESS2026&security=none&type=ws#@vpnclashfa - 30
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@45.86.51.18:19999#@vpnclashfa - 29
