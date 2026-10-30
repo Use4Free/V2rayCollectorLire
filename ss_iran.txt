@@ -1,3 +1,4 @@
+ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?encryption=auto&security=tls&type=tcp#@vpnclashfa - 28
 ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&type=tcp#@vpnclashfa - 27
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@45.86.51.18:19999#@vpnclashfa - 26
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@202.50.253.72:19999#@vpnclashfa - 25
@@ -21,7 +22,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVXJENEZ6bER5ejBEUHV0VzIyTFBW@paris.telegavp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#@vpnclashfa - 7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEczNobFBlcm81b3Y2Z2Fl@20.223.233.241:443#@vpnclashfa - 6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@vpnclashfa - 5
-ss://632cfa69-ae00-49d1-81e0-554979d1e9fa@31.76.11.83:22366?encryption=auto&security=none&type=tcp#@vpnclashfa - 4
-ss://12f4bc22-31c7-41a3-b5f3-b7cd39b2a53b@185.19.33.123:34029?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
-ss://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=none&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 2
-ss://06d4d001-4168-4876-9416-7caecf578f40@178.105.168.171:2110?encryption=auto&security=none&type=tcp#@vpnclashfa - 1
+ss://9b31490d-190e-4ef1-af0a-7ccab3e7c3b5@rib9jxayoqjgn2kw.v.3dns.vip:443?encryption=auto&host=rib9jxayoqjgn2kw.v.3dns.vip&path=%2Fws-vmess&security=tls&sni=rib9jxayoqjgn2kw.v.3dns.vip&type=ws#@vpnclashfa - 4
+ss://632cfa69-ae00-49d1-81e0-554979d1e9fa@31.76.11.83:22366?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
+ss://12f4bc22-31c7-41a3-b5f3-b7cd39b2a53b@185.19.33.123:34029?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
+ss://11c3627f-31e8-4695-dfbd-34076e2f1f5d@168.138.43.75:80?encryption=auto&host=none&path=%2Fcctv13.m3u8&security=none&type=ws#@vpnclashfa - 1
