@@ -11,11 +11,11 @@ trojan://humanity@88.216.69.253:443?host=www.pleadcourt.org&path=%2Fassignment&s
 trojan://humanity@8.6.112.206:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.trusteeforward.com&fp=chrome&type=ws&sni=www.trusteeforward.com#@vpnclashfa - 100
 trojan://humanity@8.47.69.60:443?host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#@vpnclashfa - 99
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&host=www.pleadcourt.org&fp=edge&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 98
-trojan://humanity@45.130.125.126:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 97
-trojan://humanity@45.128.76.242:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com#@vpnclashfa - 96
-trojan://humanity@45.128.76.242:443?host=www.trusteeforward.com&path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 95
-trojan://humanity@45.128.76.242:443?alpn=http%2F1.1&fp=firefox&host=www.trusteeforward.com&path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 94
-trojan://humanity@195.181.244.216:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 93
+trojan://humanity@45.128.76.242:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&host=www.trusteeforward.com&type=ws&sni=www.trusteeforward.com#@vpnclashfa - 97
+trojan://humanity@45.128.76.242:443?host=www.trusteeforward.com&path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 96
+trojan://humanity@45.128.76.242:443?alpn=http%2F1.1&fp=firefox&host=www.trusteeforward.com&path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 95
+trojan://humanity@195.181.244.216:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 94
+trojan://humanity@193.239.160.134:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@vpnclashfa - 93
 trojan://humanity@172.66.40.99:443?host=www.trusteeforward.com&path=%2Fassignment&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 92
 trojan://humanity@172.66.40.99:443?alpn=http%2F1.1&fp=firefox&host=www.trusteeforward.com&path=%2Fassignment&sni=www.trusteeforward.com&type=ws#@vpnclashfa - 91
 trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org#@vpnclashfa - 90
