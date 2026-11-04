@@ -1,4 +1,5 @@
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@67.220.85.46:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 23
+ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@38.110.1.246:18000?encryption=auto&security=none&type=tcp#@vpnclashfa - 24
+ss://db01768e-d532-40eb-a9eb-6d9e59cc79dd@185.19.33.135:14019?encryption=auto&security=none&type=tcp#@vpnclashfa - 23
 ss://c58c1205-b308-416f-8503-c04557abf93d@158.160.180.165:24212?alpn=h2%2Chttp%2F1.1&encryption=auto&security=tls&sni=158.160.180.165&type=tcp#@vpnclashfa - 22
 ss://b831381d-6324-4d53-ad4f-8cda48b30811@d2.anonix.cloud:8018?encryption=auto&host=shit.67133767.xyz&path=%2Fwebsocket%2Ftransfer%2Fgayporn&security=none&type=ws#@vpnclashfa - 21
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@45.86.51.18:19999#@vpnclashfa - 20
@@ -19,5 +20,5 @@ ss://5e2c7665-3c4c-4591-b77c-c3c90981c10f@195.26.26.162:37044?encryption=auto&se
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@172.111.38.246:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 5
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.7.16.228:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 4
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@138.199.55.230:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 3
-ss://1aba92cc-d94c-4536-a0a3-1540cb82f38c@91.107.147.12:36594?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
+ss://12f4bc22-31c7-41a3-b5f3-b7cd39b2a53b@185.19.33.123:34029?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://059fda3e-5ca9-4fbd-dd89-01cc6d4bb5dd@54.37.131.126:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 1
