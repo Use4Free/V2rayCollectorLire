@@ -49,8 +49,8 @@ ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.7.16.228:1270?encryption=auto&secu
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.50.215.240:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 8
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.50.215.238:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 7
 ss://5c040f1d-45db-43bd-8d46-e4950e433735@149.22.91.20:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 6
-ss://5c040f1d-45db-43bd-8d46-e4950e433735@138.199.55.230:1270?encryption=auto&security=tls&sni=xmfhlpy.com&type=tcp#@vpnclashfa - 5
-ss://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=auto&host=51.75.118.5&path=%2Fparham-confing-vmess%3Fu%3D6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6&security=none&type=ws#@vpnclashfa - 4
-ss://355c1760-9bde-4b77-916b-5191e7f704a3@23.94.83.37:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2FQQqun-737805443&security=none&type=tcp#@vpnclashfa - 3
+ss://541d46d8-5fc6-4d57-a7c4-9ccd3b5966eb@51.75.118.5:20222?encryption=auto&host=51.75.118.5&path=%2Fparham-confing-vmess%3Fu%3D6991fbdd-51e0-4970-b159-f9af46890c43-beda239a407a7eed66f791c6&security=none&type=ws#@vpnclashfa - 5
+ss://355c1760-9bde-4b77-916b-5191e7f704a3@23.94.83.37:52080?encryption=auto&headerType=http&host=down-cdn.dingtalk.com&path=%2FQQqun-737805443&security=none&type=tcp#@vpnclashfa - 4
+ss://1aba92cc-d94c-4536-a0a3-1540cb82f38c@91.107.147.12:36594?encryption=auto&security=none&type=tcp#@vpnclashfa - 3
 ss://12f4bc22-31c7-41a3-b5f3-b7cd39b2a53b@185.19.33.123:34029?encryption=auto&security=none&type=tcp#@vpnclashfa - 2
 ss://059fda3e-5ca9-4fbd-dd89-01cc6d4bb5dd@54.37.131.126:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.hesanid8.ir.&path=%2F&security=none&type=ws#@vpnclashfa - 1
