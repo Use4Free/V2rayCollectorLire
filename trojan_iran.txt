@@ -1,7 +1,8 @@
-trojan://nCKwZIFgBH@gary04.1688848.xyz:38663?allowInsecure=1&fp=chrome&sni=www.bing.com#@vpnclashfa - 40
-trojan://nCKwZIFgBH@gary04.1688848.xyz:22508?allowInsecure=1&fp=chrome&sni=www.bing.com#@vpnclashfa - 39
-trojan://jyneij42qcfg3x9f@179.254.191.2:39105?security=none#@vpnclashfa - 38
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?allowInsecure=1&fp=chrome&sni=tx-hy2#@vpnclashfa - 37
+trojan://nCKwZIFgBH@gary04.1688848.xyz:38663?allowInsecure=1&fp=chrome&sni=www.bing.com#@vpnclashfa - 41
+trojan://nCKwZIFgBH@gary04.1688848.xyz:22508?allowInsecure=1&fp=chrome&sni=www.bing.com#@vpnclashfa - 40
+trojan://jyneij42qcfg3x9f@179.254.191.2:39105?security=none#@vpnclashfa - 39
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443?allowInsecure=1&fp=chrome&sni=tx-hy2#@vpnclashfa - 38
+trojan://GanNiNiangJiBai-Gun@190.93.246.83:443?host=ganniniang-hahaha.pages.dev&path=%2F&sni=ganniniang-hahaha.pages.dev&type=ws#@vpnclashfa - 37
 trojan://ChatGPT2024@206.119.73.250:10443?allowInsecure=1&sni=jp.jksni.baidu.com#@vpnclashfa - 36
 trojan://BU4Sr6jWcc78Eh06srysDwhzc-Than@48.102.218.118:8443?alpn=h2%2Ch3%2Chttp%2F1.1&sni=ru.federal-usa.com#@vpnclashfa - 35
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#@vpnclashfa - 34
